@@ -1,0 +1,2232 @@
+{
+  "ts": "2021-10-25T03:09:27.362170",
+  "from": "defender@q3mcco35auwcstmt.onion",
+  "to": "hof@q3mcco35auwcstmt.onion",
+  "body": "[Error: The message is encrypted and cannot be decrypted.]"
+}
+{
+  "ts": "2021-10-25T03:14:47.876101",
+  "from": "hof@q3mcco35auwcstmt.onion",
+  "to": "defender@q3mcco35auwcstmt.onion",
+  "body": "[Error: The message is encrypted and cannot be decrypted.]"
+}
+{
+  "ts": "2021-10-25T04:12:20.730865",
+  "from": "love@q3mcco35auwcstmt.onion",
+  "to": "van@q3mcco35auwcstmt.onion",
+  "body": "hi"
+}
+{
+  "ts": "2021-10-25T04:34:13.576379",
+  "from": "love@q3mcco35auwcstmt.onion",
+  "to": "van@q3mcco35auwcstmt.onion",
+  "body": "kryptani plz"
+}
+{
+  "ts": "2021-10-25T04:34:16.317186",
+  "from": "love@q3mcco35auwcstmt.onion",
+  "to": "van@q3mcco35auwcstmt.onion",
+  "body": "soc"
+}
+{
+  "ts": "2021-10-25T04:34:18.307694",
+  "from": "love@q3mcco35auwcstmt.onion",
+  "to": "van@q3mcco35auwcstmt.onion",
+  "body": "rob"
+}
+{
+  "ts": "2021-10-25T04:34:19.339597",
+  "from": "love@q3mcco35auwcstmt.onion",
+  "to": "van@q3mcco35auwcstmt.onion",
+  "body": "yas"
+}
+{
+  "ts": "2021-10-25T05:10:53.670801",
+  "from": "love@q3mcco35auwcstmt.onion",
+  "to": "mango@q3mcco35auwcstmt.onion",
+  "body": "here?"
+}
+{
+  "ts": "2021-10-25T06:10:02.129954",
+  "from": "mango@q3mcco35auwcstmt.onion",
+  "to": "dollar@q3mcco35auwcstmt.onion",
+  "body": "in parts there, something came, cut half"
+}
+{
+  "ts": "2021-10-25T06:10:35.563423",
+  "from": "mango@q3mcco35auwcstmt.onion",
+  "to": "dollar@q3mcco35auwcstmt.onion",
+  "body": "no, I didn\u2019t throw anything) the cat hangs like that .. don\u2019t worry if there isn\u2019t"
+}
+{
+  "ts": "2021-10-25T06:29:50.400007",
+  "from": "defender@q3mcco35auwcstmt.onion",
+  "to": "bentley@q3mcco35auwcstmt.onion",
+  "body": "Hey"
+}
+{
+  "ts": "2021-10-25T06:29:50.401095",
+  "from": "defender@q3mcco35auwcstmt.onion",
+  "to": "bentley@q3mcco35auwcstmt.onion",
+  "body": "gave hof a new config"
+}
+{
+  "ts": "2021-10-25T06:29:50.402091",
+  "from": "defender@q3mcco35auwcstmt.onion",
+  "to": "bentley@q3mcco35auwcstmt.onion",
+  "body": "for Monday"
+}
+{
+  "ts": "2021-10-25T06:30:35.093164",
+  "from": "bentley@q3mcco35auwcstmt.onion",
+  "to": "defender@q3mcco35auwcstmt.onion",
+  "body": "Fine! Thanks."
+}
+{
+  "ts": "2021-10-25T06:35:34.286499",
+  "from": "veron@q3mcco35auwcstmt.onion",
+  "to": "defender@q3mcco35auwcstmt.onion",
+  "body": "[Error: The message is encrypted and cannot be decrypted.]"
+}
+{
+  "ts": "2021-10-25T06:38:53.117231",
+  "from": "bentley@q3mcco35auwcstmt.onion",
+  "to": "hof@q3mcco35auwcstmt.onion",
+  "body": "Good morning!"
+}
+{
+  "ts": "2021-10-25T06:47:05.630610",
+  "from": "wind@q3mcco35auwcstmt.onion",
+  "to": "mavemat@q3mcco35auwcstmt.onion",
+  "body": "defined 17 protocols of pairs of types that gmyl works with, at the end of each line the number of packets for each protocol, each packet will need to be decrypted, it will take time\n\n413 12 0.774066794 208.110.64.130 61.177.172.13 TCP 76 22 > 60232 [SYN, ACK] Seq=0 Ack=1 Win=65160 Len=0 MSS=1460 SACK_PERM=1 TSval=3854754443 TSecr=3989055\n412 11 0.774040609 61.177.172.13 208.110.64.130 TCP 76 60232 > 22 [SYN] Seq=0 Win=29200 Len=0 MSS=1460 SACK_PERM=1 TSval=3290554984 TSecr=0 WS=128 18\n398 24895 3799.711332710 208.110.64.130 192.187.107.16 DNS 78 Standard query 0xa63a AAAA api.snapcraft.io 14\n399 24898 3799.746274439 192.187.107.16 208.110.64.130 DNS 174 Standard Query Response 0x07a7 A API.Snapcraft.io A 91.189.92.20 A 91.189.92.38 A 91.189.92.39 A 91.189.92.19 A 91.189.92.40 A 91.189.92.41 A 91.189.92.41 14\n400 206 30.300778308 208.110.64.130 208.110.64.130 X11 100 Event: Sent-ConfigureNotify 6\n479 9479 1359.987631350 193.57.40.49 208.110.64.130 TCP 62 41067 > 31890 [SYN] Seq=0 Win=1024 Len=0 2\n421 8010 1135.871199442 185.191.34.120 208.110.64.130 TCP 62 53892 > 6172 [SYN] Seq=0 Win=1024 Len=0 2\n418 32307 4905.408936138 193.27.228.65 208.110.64.130 TCP 62 49690 > 5480 [SYN] Seq=0 Win=1024 Len=0 2\n422 8011 1135.871219118 208.110.64.130 185.191.34.120 TCP 56 6172 > 53892 [RST, ACK] Seq=1 Ack=1 Win=0 Len=0 1\n396 46055 6967.116279904 71.168.131.157 208.110.64.130 TCP 62 20902 > 52869 [SYN] Seq=0 Win=62153 Len=0 1\n419 32308 4905.408951592 208.110.64.130 193.27.228.65 TCP 56 5480 > 49690 [RST, ACK] Seq=1 Ack=1 Win=0 Len=0 1\n426 118798 17765.942083206 71.6.199.23 208.110.64.130 TCP 62 29011 > 23424 [SYN] Seq=0 Win=18825 Len=0 MSS=1460 1\n394 178535 26728.752860988 161.35.126.145 208.110.64.130 TCP 62 32767 > 8545 [SYN] Seq=0 Win=1024 Len=0 1\n480 9480 1359.987649076 208.110.64.130 193.57.40.49 TCP 56 31890 > 41067 [RST, ACK] Seq=1 Ack=1 Win=0 Len=0 1\n397 46056 6967.116295393 208.110.64.130 71.168.131.157 TCP 56 52869 > 20902 [RST, ACK] Seq=1 Ack=1 Win=0 Len=0 1\n427 118799 17765.942098468 208.110.64.130 71.6.199.23 TCP 56 23424 > 29011 [RST, ACK] Seq=1 Ack=1 Win=0 Len=0 1\n395 178536 26728.752876338 208.110.64.130 161.35.126.145 TCP 56 8545 > 32767 [RST, ACK] Seq=1 Ack=1 Win=0 Len=0 1"
+}
+{
+  "ts": "2021-10-25T06:47:05.635555",
+  "from": "wind@q3mcco35auwcstmt.onion",
+  "to": "mavemat@q3mcco35auwcstmt.onion",
+  "body": "error, 55 protocol pairs with which gmyl works, I will automate the decryption"
+}
+{
+  "ts": "2021-10-25T07:01:21.435066",
+  "from": "defender@q3mcco35auwcstmt.onion",
+  "to": "grom@q3mcco35auwcstmt.onion",
+  "body": "[Error: The message is encrypted and cannot be decrypted.]"
+}
+{
+  "ts": "2021-10-25T07:01:56.962711",
+  "from": "grom@q3mcco35auwcstmt.onion",
+  "to": "defender@q3mcco35auwcstmt.onion",
+  "body": "[ERROR: This message is encrypted, and you are unable to decrypt it.]"
+}
+{
+  "ts": "2021-10-25T07:20:23.661276",
+  "from": "ali@q3mcco35auwcstmt.onion",
+  "to": "viper@q3mcco35auwcstmt.onion",
+  "body": "THX"
+}
+{
+  "ts": "2021-10-25T07:25:07.749455",
+  "from": "grom@q3mcco35auwcstmt.onion",
+  "to": "defender@q3mcco35auwcstmt.onion",
+  "body": "[ERROR: This message is encrypted, and you are unable to decrypt it.]"
+}
+{
+  "ts": "2021-10-25T07:35:07.479810",
+  "from": "mozart@q3mcco35auwcstmt.onion",
+  "to": "bentley@q3mcco35auwcstmt.onion",
+  "body": "Hello, can I have a new crypt, please, the last build is already burning with something https://temp.sh/copeR/tmp.zip C$RTG867hfx,zwdl3reFRg5"
+}
+{
+  "ts": "2021-10-25T07:39:07.313110",
+  "from": "many@q3mcco35auwcstmt.onion",
+  "to": "grant@q3mcco35auwcstmt.onion",
+  "body": "shalom!"
+}
+{
+  "ts": "2021-10-25T07:44:18.105356",
+  "from": "bentley@q3mcco35auwcstmt.onion",
+  "to": "mozart@q3mcco35auwcstmt.onion",
+  "body": "OK"
+}
+{
+  "ts": "2021-10-25T07:50:45.375004",
+  "from": "wind@q3mcco35auwcstmt.onion",
+  "to": "buza@q3mcco35auwcstmt.onion",
+  "body": "defined 17 protocols of pairs of types that gmyl works with, at the end of each line the number of packets for each protocol, each packet will need to be decrypted, it will take time\n\nerror, 55 protocol pairs with which gmyl works, I will automate the decryption"
+}
+{
+  "ts": "2021-10-25T08:01:45.833420",
+  "from": "mango@q3mcco35auwcstmt.onion",
+  "to": "buza@q3mcco35auwcstmt.onion",
+  "body": "hi did you switch to the new toad domain? does it work for you?"
+}
+{
+  "ts": "2021-10-25T08:13:00.108300",
+  "from": "ford@q3mcco35auwcstmt.onion",
+  "to": "lemur@q3mcco35auwcstmt.onion",
+  "body": "write how you want"
+}
+{
+  "ts": "2021-10-25T08:13:02.689271",
+  "from": "ford@q3mcco35auwcstmt.onion",
+  "to": "skippy@q3mcco35auwcstmt.onion",
+  "body": "write how you want"
+}
+{
+  "ts": "2021-10-25T08:13:22.398854",
+  "from": "ford@q3mcco35auwcstmt.onion",
+  "to": "freebeer@q3mcco35auwcstmt.onion",
+  "body": "Hey"
+}
+{
+  "ts": "2021-10-25T08:36:02.685707",
+  "from": "grant@q3mcco35auwcstmt.onion",
+  "to": "bentley@q3mcco35auwcstmt.onion",
+  "body": "Hey"
+}
+{
+  "ts": "2021-10-25T08:53:17.353108",
+  "from": "viper@q3mcco35auwcstmt.onion",
+  "to": "mavemat@q3mcco35auwcstmt.onion",
+  "body": "hi, did anyone pass the interview?"
+}
+{
+  "ts": "2021-10-25T08:55:34.277476",
+  "from": "defender@q3mcco35auwcstmt.onion",
+  "to": "rand@q3mcco35auwcstmt.onion",
+  "body": "EVERYONE MUST DO THIS, otherwise the toad will stop working for you\n\nnew toad domain version 3\nodw5mdwotufuxxrgw3pvqjjuze3e33bylylkl667h4nefwiimwqsumyd.onion\n\nwe register it in the account settings - connection - server\nbefore that, on this tab, check the box Manually specify the server address and port\n\nport standard 5222\n\nIMPORTANT, everything else remains, the account lags behind with the old domain ... only the domain for connection is registered\n\n!!! How do you do, write me that everything is OK"
+}
+{
+  "ts": "2021-10-25T08:58:11.215169",
+  "from": "veron@q3mcco35auwcstmt.onion",
+  "to": "rand@q3mcco35auwcstmt.onion",
+  "body": "Hey"
+}
+{
+  "ts": "2021-10-25T08:58:55.195283",
+  "from": "veron@q3mcco35auwcstmt.onion",
+  "to": "rand@q3mcco35auwcstmt.onion",
+  "body": "I'm talking about the dock"
+}
+{
+  "ts": "2021-10-25T09:03:08.112459",
+  "from": "fatboy@q3mcco35auwcstmt.onion",
+  "to": "derek@q3mcco35auwcstmt.onion",
+  "body": "tut"
+}
+{
+  "ts": "2021-10-25T09:03:34.480878",
+  "from": "derek@q3mcco35auwcstmt.onion",
+  "to": "fatboy@q3mcco35auwcstmt.onion",
+  "body": "tut"
+}
+{
+  "ts": "2021-10-25T09:05:32.886660",
+  "from": "mango@q3mcco35auwcstmt.onion",
+  "to": "dollar@q3mcco35auwcstmt.onion",
+  "body": "in parts there, something came, cut half"
+}
+{
+  "ts": "2021-10-25T09:05:32.892516",
+  "from": "mango@q3mcco35auwcstmt.onion",
+  "to": "dollar@q3mcco35auwcstmt.onion",
+  "body": "no, I didn\u2019t throw anything) the cat hangs like that .. don\u2019t worry if there isn\u2019t"
+}
+{
+  "ts": "2021-10-25T09:08:37.736448",
+  "from": "grom@q3mcco35auwcstmt.onion",
+  "to": "defender@q3mcco35auwcstmt.onion",
+  "body": "[ERROR: This message is encrypted, and you are unable to decrypt it.]"
+}
+{
+  "ts": "2021-10-25T09:10:57.513321",
+  "from": "veron@q3mcco35auwcstmt.onion",
+  "to": "rand@q3mcco35auwcstmt.onion",
+  "body": "Hey"
+}
+{
+  "ts": "2021-10-25T09:10:57.513889",
+  "from": "veron@q3mcco35auwcstmt.onion",
+  "to": "rand@q3mcco35auwcstmt.onion",
+  "body": "I'm talking about the dock"
+}
+{
+  "ts": "2021-10-25T09:37:08.677336",
+  "from": "atlas@q3mcco35auwcstmt.onion",
+  "to": "dollar@q3mcco35auwcstmt.onion",
+  "body": "rocket turned off?"
+}
+{
+  "ts": "2021-10-25T09:37:19.364736",
+  "from": "dollar@q3mcco35auwcstmt.onion",
+  "to": "atlas@q3mcco35auwcstmt.onion",
+  "body": "jdem popolnaiey"
+}
+{
+  "ts": "2021-10-25T09:37:20.523993",
+  "from": "dollar@q3mcco35auwcstmt.onion",
+  "to": "atlas@q3mcco35auwcstmt.onion",
+  "body": "i zrabpet"
+}
+{
+  "ts": "2021-10-25T09:37:43.088665",
+  "from": "gold@q3mcco35auwcstmt.onion",
+  "to": "kagas@q3mcco35auwcstmt.onion",
+  "body": "Hello, did you manage to change?"
+}
+{
+  "ts": "2021-10-25T09:38:18.969806",
+  "from": "kagas@q3mcco35auwcstmt.onion",
+  "to": "gold@q3mcco35auwcstmt.onion",
+  "body": "Hi, haven't tried it yet"
+}
+{
+  "ts": "2021-10-25T09:38:22.263804",
+  "from": "kagas@q3mcco35auwcstmt.onion",
+  "to": "gold@q3mcco35auwcstmt.onion",
+  "body": "Did you change?"
+}
+{
+  "ts": "2021-10-25T09:38:42.703736",
+  "from": "gold@q3mcco35auwcstmt.onion",
+  "to": "kagas@q3mcco35auwcstmt.onion",
+  "body": "no, I haven\u2019t written yet, I can\u2019t enter the rocket, but here the difa is not online"
+}
+{
+  "ts": "2021-10-25T09:38:47.153851",
+  "from": "gold@q3mcco35auwcstmt.onion",
+  "to": "kagas@q3mcco35auwcstmt.onion",
+  "body": "is he there?"
+}
+{
+  "ts": "2021-10-25T09:39:27.516229",
+  "from": "defender@q3mcco35auwcstmt.onion",
+  "to": "grom@q3mcco35auwcstmt.onion",
+  "body": "[Error: The message is encrypted and cannot be decrypted.]"
+}
+{
+  "ts": "2021-10-25T09:48:18.978263",
+  "from": "defender@q3mcco35auwcstmt.onion",
+  "to": "fast@q3mcco35auwcstmt.onion",
+  "body": "EVERYONE MUST DO THIS, otherwise the toad will stop working for you\n\nnew toad domain version 3\nodw5mdwotufuxxrgw3pvqjjuze3e33bylylkl667h4nefwiimwqsumyd.onion\n\nwe register it in the account settings - connection - server\nbefore that, on this tab, check the box Manually specify the server address and port\n\nport standard 5222\n\nIMPORTANT, everything else remains, the account lags behind with the old domain ... only the domain for connection is registered\n\n!!! When you do, write me back that everything is OK"
+}
+{
+  "ts": "2021-10-25T09:49:05.011697",
+  "from": "kagas@q3mcco35auwcstmt.onion",
+  "to": "gold@q3mcco35auwcstmt.onion",
+  "body": "strange"
+}
+{
+  "ts": "2021-10-25T09:49:09.694833",
+  "from": "kagas@q3mcco35auwcstmt.onion",
+  "to": "gold@q3mcco35auwcstmt.onion",
+  "body": "why don't you have it online"
+}
+{
+  "ts": "2021-10-25T09:49:18.569726",
+  "from": "kagas@q3mcco35auwcstmt.onion",
+  "to": "gold@q3mcco35auwcstmt.onion",
+  "body": "I have it in my watch"
+}
+{
+  "ts": "2021-10-25T09:49:26.101969",
+  "from": "veron@q3mcco35auwcstmt.onion",
+  "to": "rand@q3mcco35auwcstmt.onion",
+  "body": "[12:43:03] <veron> I need 5 or more links in .xls\n[12:43:26] <veron> I need to constantly make 3 files for work, in each file there are different links\n[12:44:09] <veron> i.e. all 3 files on one stub, they will differ only in links in them\n[12:44:30] <veron> as you kill from the ice or the dock becomes pale, you need a new dock"
+}
+{
+  "ts": "2021-10-25T09:51:01.436218",
+  "from": "grom@q3mcco35auwcstmt.onion",
+  "to": "defender@q3mcco35auwcstmt.onion",
+  "body": "[ERROR: This message is encrypted, and you are unable to decrypt it.]"
+}
+{
+  "ts": "2021-10-25T09:51:21.976004",
+  "from": "veron@q3mcco35auwcstmt.onion",
+  "to": "rand@q3mcco35auwcstmt.onion",
+  "body": "[12:43:03] <veron> I need 5 or more links in .xls\n[12:43:26] <veron> I need to constantly make 3 files for work, in each file there are different links\n[12:44:09] <veron> i.e. all 3 files on one stub, they will differ only in links in them\n[12:44:30] <veron> as you kill from the ice or the dock becomes pale, you need a new dock"
+}
+{
+  "ts": "2021-10-25T09:51:59.521909",
+  "from": "many@q3mcco35auwcstmt.onion",
+  "to": "defender@q3mcco35auwcstmt.onion",
+  "body": "[20:15:27] <defender> EVERYONE SHOULD DO IT, otherwise the toad will stop working for you\n\nnew toad domain version 3\nodw5mdwotufuxxrgw3pvqjjuze3e33bylylkl667h4nefwiimwqsumyd.onion\n\nwe register it in the account settings - connection - server\nbefore that, on this tab, check the box Manually specify the server address and port\n\nport standard 5222\n\nIMPORTANT, everything else remains, the account lags behind with the old domain ... only the domain for connection is registered\n\n!!! How do you do, write me that everything is OK\n*** 2021-10-24\n[14:22:16] <22> did"
+}
+{
+  "ts": "2021-10-25T09:52:30.365443",
+  "from": "hash@q3mcco35auwcstmt.onion",
+  "to": "fast@q3mcco35auwcstmt.onion",
+  "body": "Hey"
+}
+{
+  "ts": "2021-10-25T09:52:33.492649",
+  "from": "fast@q3mcco35auwcstmt.onion",
+  "to": "hash@q3mcco35auwcstmt.onion",
+  "body": "Greetings"
+}
+{
+  "ts": "2021-10-25T09:53:02.481758",
+  "from": "hash@q3mcco35auwcstmt.onion",
+  "to": "fast@q3mcco35auwcstmt.onion",
+  "body": "Returned?"
+}
+{
+  "ts": "2021-10-25T10:07:45.933483",
+  "from": "mavemat@q3mcco35auwcstmt.onion",
+  "to": "paranoik@q3mcco35auwcstmt.onion",
+  "body": "Yep, I'll check it out now."
+}
+{
+  "ts": "2021-10-25T10:23:28.819982",
+  "from": "defender@q3mcco35auwcstmt.onion",
+  "to": "veron@q3mcco35auwcstmt.onion",
+  "body": "[Error: The message is encrypted and cannot be decrypted.]"
+}
+{
+  "ts": "2021-10-25T10:23:55.947963",
+  "from": "defender@q3mcco35auwcstmt.onion",
+  "to": "veron@q3mcco35auwcstmt.onion",
+  "body": "[Error: The message is encrypted and cannot be decrypted.]"
+}
+{
+  "ts": "2021-10-25T10:32:16.078417",
+  "from": "gold@q3mcco35auwcstmt.onion",
+  "to": "kagas@q3mcco35auwcstmt.onion",
+  "body": "yeah some shit"
+}
+{
+  "ts": "2021-10-25T10:48:41.301072",
+  "from": "fatboy@q3mcco35auwcstmt.onion",
+  "to": "derek@q3mcco35auwcstmt.onion",
+  "body": " [06:20:38] <fatboy>\n\u00bb [06:05:23] <derek tenet> yes there is\nwhat?\n[06:20:58] <fatboy>\n\u00bb [06:05:27] <derek tenet> the main thing is keep increasing the envelope\nbudut bazi s setok budut nurm boti"
+}
+{
+  "ts": "2021-10-25T10:51:28.339565",
+  "from": "fatboy@q3mcco35auwcstmt.onion",
+  "to": "derek@q3mcco35auwcstmt.onion",
+  "body": "tut"
+}
+{
+  "ts": "2021-10-25T10:53:42.221357",
+  "from": "gold@q3mcco35auwcstmt.onion",
+  "to": "defender@q3mcco35auwcstmt.onion",
+  "body": "Writing"
+}
+{
+  "ts": "2021-10-25T10:53:59.365100",
+  "from": "defender@q3mcco35auwcstmt.onion",
+  "to": "driver@q3mcco35auwcstmt.onion",
+  "body": "[Error: The message is encrypted and cannot be decrypted.]"
+}
+{
+  "ts": "2021-10-25T10:54:15.622981",
+  "from": "defender@q3mcco35auwcstmt.onion",
+  "to": "driver@q3mcco35auwcstmt.onion",
+  "body": "[Error: The message is encrypted and cannot be decrypted.]"
+}
+{
+  "ts": "2021-10-25T10:57:43.003555",
+  "from": "fatboy@q3mcco35auwcstmt.onion",
+  "to": "derek@q3mcco35auwcstmt.onion",
+  "body": "tut"
+}
+{
+  "ts": "2021-10-25T10:58:26.042622",
+  "from": "defender@q3mcco35auwcstmt.onion",
+  "to": "driver@q3mcco35auwcstmt.onion",
+  "body": "[Error: The message is encrypted and cannot be decrypted.]"
+}
+{
+  "ts": "2021-10-25T11:02:36.297381",
+  "from": "defender@q3mcco35auwcstmt.onion",
+  "to": "driver@q3mcco35auwcstmt.onion",
+  "body": "[Error: The message is encrypted and cannot be decrypted.]"
+}
+{
+  "ts": "2021-10-25T11:15:53.180258",
+  "from": "bentley@q3mcco35auwcstmt.onion",
+  "to": "bloodrush@q3mcco35auwcstmt.onion",
+  "body": "everything is ready waiting for the command."
+}
+{
+  "ts": "2021-10-25T11:36:52.403422",
+  "from": "pin@q3mcco35auwcstmt.onion",
+  "to": "mango@q3mcco35auwcstmt.onion",
+  "body": "ghbdtn"
+}
+{
+  "ts": "2021-10-25T11:36:55.588901",
+  "from": "pin@q3mcco35auwcstmt.onion",
+  "to": "mango@q3mcco35auwcstmt.onion",
+  "body": "Hey"
+}
+{
+  "ts": "2021-10-25T11:37:08.129653",
+  "from": "pin@q3mcco35auwcstmt.onion",
+  "to": "mango@q3mcco35auwcstmt.onion",
+  "body": "0YoIfDuzJevjw4DWKoAAmz00QR6Smww9VGvzMt9kbCXWbe7HdMuK6AuBEH3D11Xv"
+}
+{
+  "ts": "2021-10-25T11:44:17.192553",
+  "from": "defender@q3mcco35auwcstmt.onion",
+  "to": "driver@q3mcco35auwcstmt.onion",
+  "body": "[Error: The message is encrypted and cannot be decrypted.]"
+}
+{
+  "ts": "2021-10-25T11:46:59.817327",
+  "from": "driver@q3mcco35auwcstmt.onion",
+  "to": "defender@q3mcco35auwcstmt.onion",
+  "body": "[Error: The message is encrypted and cannot be decrypted.]"
+}
+{
+  "ts": "2021-10-25T11:59:04.205785",
+  "from": "love@q3mcco35auwcstmt.onion",
+  "to": "hof@q3mcco35auwcstmt.onion",
+  "body": "hello drop soc1 plz"
+}
+{
+  "ts": "2021-10-25T12:07:39.089467",
+  "from": "elon@q3mcco35auwcstmt.onion",
+  "to": "fast@q3mcco35auwcstmt.onion",
+  "body": "If you wrote something, it didn't come"
+}
+{
+  "ts": "2021-10-25T12:13:52.634988",
+  "from": "defender@q3mcco35auwcstmt.onion",
+  "to": "fog@q3mcco35auwcstmt.onion",
+  "body": "EVERYONE MUST DO THIS, otherwise the toad will stop working for you\n\nnew toad domain version 3\nodw5mdwotufuxxrgw3pvqjjuze3e33bylylkl667h4nefwiimwqsumyd.onion\n\nwe register it in the account settings - connection - server\nbefore that, on this tab, check the box Manually specify the server address and port\n\nport standard 5222\n\nIMPORTANT, everything else remains, the account lags behind with the old domain ... only the domain for connection is registered\n\n!!! How do you do, write me that everything is OK"
+}
+{
+  "ts": "2021-10-25T12:21:05.486204",
+  "from": "hof@q3mcco35auwcstmt.onion",
+  "to": "defender@q3mcco35auwcstmt.onion",
+  "body": "[Error: The message is encrypted and cannot be decrypted.]"
+}
+{
+  "ts": "2021-10-25T12:21:15.314133",
+  "from": "hof@q3mcco35auwcstmt.onion",
+  "to": "defender@q3mcco35auwcstmt.onion",
+  "body": "[Error: The message is encrypted and cannot be decrypted.]"
+}
+{
+  "ts": "2021-10-25T12:21:28.070415",
+  "from": "defender@q3mcco35auwcstmt.onion",
+  "to": "hof@q3mcco35auwcstmt.onion",
+  "body": "[Error: The message is encrypted and cannot be decrypted.]"
+}
+{
+  "ts": "2021-10-25T12:21:30.438825",
+  "from": "hof@q3mcco35auwcstmt.onion",
+  "to": "defender@q3mcco35auwcstmt.onion",
+  "body": "[Error: The message is encrypted and cannot be decrypted.]"
+}
+{
+  "ts": "2021-10-25T12:21:46.772745",
+  "from": "defender@q3mcco35auwcstmt.onion",
+  "to": "hof@q3mcco35auwcstmt.onion",
+  "body": "[Error: The message is encrypted and cannot be decrypted.]"
+}
+{
+  "ts": "2021-10-25T12:27:48.346655",
+  "from": "hof@q3mcco35auwcstmt.onion",
+  "to": "defender@q3mcco35auwcstmt.onion",
+  "body": "[Error: The message is encrypted and cannot be decrypted.]"
+}
+{
+  "ts": "2021-10-25T12:28:18.914565",
+  "from": "fog@q3mcco35auwcstmt.onion",
+  "to": "green@q3mcco35auwcstmt.onion",
+  "body": "hi esche raz, jeremy"
+}
+{
+  "ts": "2021-10-25T12:28:22.106204",
+  "from": "defender@q3mcco35auwcstmt.onion",
+  "to": "hof@q3mcco35auwcstmt.onion",
+  "body": "[Error: The message is encrypted and cannot be decrypted.]"
+}
+{
+  "ts": "2021-10-25T12:28:25.771399",
+  "from": "fog@q3mcco35auwcstmt.onion",
+  "to": "green@q3mcco35auwcstmt.onion",
+  "body": "ya"
+}
+{
+  "ts": "2021-10-25T12:28:40.396766",
+  "from": "hof@q3mcco35auwcstmt.onion",
+  "to": "defender@q3mcco35auwcstmt.onion",
+  "body": "[Error: The message is encrypted and cannot be decrypted.]"
+}
+{
+  "ts": "2021-10-25T12:28:56.626604",
+  "from": "fog@q3mcco35auwcstmt.onion",
+  "to": "green@q3mcco35auwcstmt.onion",
+  "body": "divan poprosil esche zaranee zhelezo tam dobavit', typa pamyati"
+}
+{
+  "ts": "2021-10-25T12:30:17.960786",
+  "from": "hof@q3mcco35auwcstmt.onion",
+  "to": "defender@q3mcco35auwcstmt.onion",
+  "body": "[Error: The message is encrypted and cannot be decrypted.]"
+}
+{
+  "ts": "2021-10-25T12:30:35.859905",
+  "from": "defender@q3mcco35auwcstmt.onion",
+  "to": "hof@q3mcco35auwcstmt.onion",
+  "body": "[Error: The message is encrypted and cannot be decrypted.]"
+}
+{
+  "ts": "2021-10-25T12:31:05.502030",
+  "from": "defender@q3mcco35auwcstmt.onion",
+  "to": "hof@q3mcco35auwcstmt.onion",
+  "body": "[Error: The message is encrypted and cannot be decrypted.]"
+}
+{
+  "ts": "2021-10-25T12:31:17.616644",
+  "from": "hof@q3mcco35auwcstmt.onion",
+  "to": "defender@q3mcco35auwcstmt.onion",
+  "body": "[Error: The message is encrypted and cannot be decrypted.]"
+}
+{
+  "ts": "2021-10-25T12:33:13.291930",
+  "from": "defender@q3mcco35auwcstmt.onion",
+  "to": "hof@q3mcco35auwcstmt.onion",
+  "body": "[Error: The message is encrypted and cannot be decrypted.]"
+}
+{
+  "ts": "2021-10-25T12:33:26.004147",
+  "from": "hof@q3mcco35auwcstmt.onion",
+  "to": "defender@q3mcco35auwcstmt.onion",
+  "body": "[Error: The message is encrypted and cannot be decrypted.]"
+}
+{
+  "ts": "2021-10-25T12:42:42.319707",
+  "from": "defender@q3mcco35auwcstmt.onion",
+  "to": "hof@q3mcco35auwcstmt.onion",
+  "body": "[Error: The message is encrypted and cannot be decrypted.]"
+}
+{
+  "ts": "2021-10-25T12:44:24.699613",
+  "from": "hof@q3mcco35auwcstmt.onion",
+  "to": "defender@q3mcco35auwcstmt.onion",
+  "body": "[Error: The message is encrypted and cannot be decrypted.]"
+}
+{
+  "ts": "2021-10-25T12:44:25.763666",
+  "from": "elvira@q3mcco35auwcstmt.onion",
+  "to": "love@q3mcco35auwcstmt.onion",
+  "body": "hello, can you help me replenish the NN?"
+}
+{
+  "ts": "2021-10-25T12:52:27.209924",
+  "from": "love@q3mcco35auwcstmt.onion",
+  "to": "elvira@q3mcco35auwcstmt.onion",
+  "body": "private"
+}
+{
+  "ts": "2021-10-25T12:55:07.731562",
+  "from": "love@q3mcco35auwcstmt.onion",
+  "to": "elvira@q3mcco35auwcstmt.onion",
+  "body": "in 20 minutes"
+}
+{
+  "ts": "2021-10-25T12:55:12.821682",
+  "from": "love@q3mcco35auwcstmt.onion",
+  "to": "elvira@q3mcco35auwcstmt.onion",
+  "body": "I'll throw you a kiwi)"
+}
+{
+  "ts": "2021-10-25T12:55:33.516581",
+  "from": "elvira@q3mcco35auwcstmt.onion",
+  "to": "love@q3mcco35auwcstmt.onion",
+  "body": "ok"
+}
+{
+  "ts": "2021-10-25T12:56:26.807397",
+  "from": "elvira@q3mcco35auwcstmt.onion",
+  "to": "love@q3mcco35auwcstmt.onion",
+  "body": "THX"
+}
+{
+  "ts": "2021-10-25T12:59:18.475168",
+  "from": "derek@q3mcco35auwcstmt.onion",
+  "to": "andy@q3mcco35auwcstmt.onion",
+  "body": "[05:53:35] <derek> [05:50:03] <derek> and what kind of domain\n[05:50:06] <derek> give me a domain pliz\n 5.7k and where 1k pc\n[05:53:39] <derek> and answer Dollar pliz"
+}
+{
+  "ts": "2021-10-25T12:59:35.982739",
+  "from": "derek@q3mcco35auwcstmt.onion",
+  "to": "andy@q3mcco35auwcstmt.onion",
+  "body": "what is the domain\ngive me a domain plz\n5.7k and where 1k pc\n and answer the dollar pliz"
+}
+{
+  "ts": "2021-10-25T12:59:38.997589",
+  "from": "love@q3mcco35auwcstmt.onion",
+  "to": "elvira@q3mcco35auwcstmt.onion",
+  "body": "\u25fb\ufe0f QIWI (BASIC)\n\u2014\u2014\u2014\u2014\u2014\u2014\u2014\u2014\u2014\u2014\u2014\u2014\u2014\u2014\u2014\nPERSONAL OFFICE (QIWI.COM)\n\u2014\u2014\u2014\u2014\u2014\u2014\u2014\u2014\u2014\u2014\u2014\u2014\u2014\u2014\u2014\nLogin: 79645189629\nPassword: 812487KJAFSkjsdlgf\n\u2014\u2014\u2014\u2014\u2014\u2014\u2014\u2014\u2014\u2014\u2014\u2014\u2014\u2014\u2014\nVIRTUAL CARD\n\u2014\u2014\u2014\u2014\u2014\u2014\u2014\u2014\u2014\u2014\u2014\u2014\u2014\u2014\u2014\nNumber: 4890494755979846\nDate: 10/22\nCVV: 876\n\u2014\u2014\u2014\u2014\u2014\u2014\u2014\u2014\u2014\u2014\u2014\u2014\u2014\u2014\u2014\nPROXY\n\u2014\u2014\u2014\u2014\u2014\u2014\u2014\u2014\u2014\u2014\u2014\u2014\u2014\u2014\u2014\nIP: 46.8.157.223\nhttps port: 1050\nsocks5 port: 1051\nLogin: x9Cwme\nPassword: qwEdNvIymW\n\u2014\u2014\u2014\u2014\u2014\u2014\u2014\u2014\u2014\u2014\u2014\u2014\u2014\u2014\u2014"
+}
+{
+  "ts": "2021-10-25T12:59:41.987185",
+  "from": "love@q3mcco35auwcstmt.onion",
+  "to": "elvira@q3mcco35auwcstmt.onion",
+  "body": "check everything"
+}
+{
+  "ts": "2021-10-25T13:00:58.816651",
+  "from": "elvira@q3mcco35auwcstmt.onion",
+  "to": "love@q3mcco35auwcstmt.onion",
+  "body": "OK"
+}
+{
+  "ts": "2021-10-25T13:12:57.398181",
+  "from": "love@q3mcco35auwcstmt.onion",
+  "to": "elvira@q3mcco35auwcstmt.onion",
+  "body": "??"
+}
+{
+  "ts": "2021-10-25T13:13:02.037312",
+  "from": "love@q3mcco35auwcstmt.onion",
+  "to": "elvira@q3mcco35auwcstmt.onion",
+  "body": "working?)"
+}
+{
+  "ts": "2021-10-25T13:43:20.964209",
+  "from": "many@q3mcco35auwcstmt.onion",
+  "to": "stern@q3mcco35auwcstmt.onion",
+  "body": "3ESoHHu87mTrFNSNUaMVEfT3vYwRYGfSHQ"
+}
+{
+  "ts": "2021-10-25T13:48:33.746213",
+  "from": "love@q3mcco35auwcstmt.onion",
+  "to": "elvira@q3mcco35auwcstmt.onion",
+  "body": "HM?"
+}
+{
+  "ts": "2021-10-25T13:48:39.022929",
+  "from": "love@q3mcco35auwcstmt.onion",
+  "to": "elvira@q3mcco35auwcstmt.onion",
+  "body": "did you manage to pay?"
+}
+{
+  "ts": "2021-10-25T13:57:04.070367",
+  "from": "dollar@q3mcco35auwcstmt.onion",
+  "to": "porovoz@q3mcco35auwcstmt.onion",
+  "body": "hey"
+}
+{
+  "ts": "2021-10-25T13:57:05.177274",
+  "from": "dollar@q3mcco35auwcstmt.onion",
+  "to": "porovoz@q3mcco35auwcstmt.onion",
+  "body": "man"
+}
+{
+  "ts": "2021-10-25T13:57:10.035462",
+  "from": "dollar@q3mcco35auwcstmt.onion",
+  "to": "porovoz@q3mcco35auwcstmt.onion",
+  "body": "otpsihi kak bdyesh' online"
+}
+{
+  "ts": "2021-10-25T13:57:13.029976",
+  "from": "dollar@q3mcco35auwcstmt.onion",
+  "to": "porovoz@q3mcco35auwcstmt.onion",
+  "body": "rocket-lejit"
+}
+{
+  "ts": "2021-10-25T14:03:49.244608",
+  "from": "defender@q3mcco35auwcstmt.onion",
+  "to": "driver@q3mcco35auwcstmt.onion",
+  "body": "[Error: The message is encrypted and cannot be decrypted.]"
+}
+{
+  "ts": "2021-10-25T14:09:12.006207",
+  "from": "tiktak@q3mcco35auwcstmt.onion",
+  "to": "derek@q3mcco35auwcstmt.onion",
+  "body": "hi how are you? send now?"
+}
+{
+  "ts": "2021-10-25T14:15:56.441207",
+  "from": "driver@q3mcco35auwcstmt.onion",
+  "to": "defender@q3mcco35auwcstmt.onion",
+  "body": "[Error: The message is encrypted and cannot be decrypted.]"
+}
+{
+  "ts": "2021-10-25T14:18:06.866403",
+  "from": "driver@q3mcco35auwcstmt.onion",
+  "to": "defender@q3mcco35auwcstmt.onion",
+  "body": "[Error: The message is encrypted and cannot be decrypted.]"
+}
+{
+  "ts": "2021-10-25T14:25:41.036328",
+  "from": "wertu@q3mcco35auwcstmt.onion",
+  "to": "ford@q3mcco35auwcstmt.onion",
+  "body": "haven't looked yet?"
+}
+{
+  "ts": "2021-10-25T14:26:26.180965",
+  "from": "bentley@q3mcco35auwcstmt.onion",
+  "to": "bloodrush@q3mcco35auwcstmt.onion",
+  "body": "everything is ready waiting for the command."
+}
+{
+  "ts": "2021-10-25T14:26:35.335117",
+  "from": "bloodrush@q3mcco35auwcstmt.onion",
+  "to": "bentley@q3mcco35auwcstmt.onion",
+  "body": "hello, from the 10th attempt within two days I got into a toad\ngive me a spare contact outside thor toad\nstart on Tuesday afternoon or Wednesday already\n600 contacts warmed up, you can attack them\n\nRMTA work? did the stat work?"
+}
+{
+  "ts": "2021-10-25T14:27:02.637400",
+  "from": "bentley@q3mcco35auwcstmt.onion",
+  "to": "bloodrush@q3mcco35auwcstmt.onion",
+  "body": "everything is working, landings are ready"
+}
+{
+  "ts": "2021-10-25T14:27:21.297582",
+  "from": "bentley@q3mcco35auwcstmt.onion",
+  "to": "bloodrush@q3mcco35auwcstmt.onion",
+  "body": "benalien@xmpp.jp"
+}
+{
+  "ts": "2021-10-25T14:28:21.186613",
+  "from": "bentley@q3mcco35auwcstmt.onion",
+  "to": "bloodrush@q3mcco35auwcstmt.onion",
+  "body": "Landings are ready and files are uploaded 4 groups bk and 1 group irik"
+}
+{
+  "ts": "2021-10-25T14:28:24.843075",
+  "from": "bentley@q3mcco35auwcstmt.onion",
+  "to": "bloodrush@q3mcco35auwcstmt.onion",
+  "body": "trick"
+}
+{
+  "ts": "2021-10-25T14:29:24.037293",
+  "from": "derek@q3mcco35auwcstmt.onion",
+  "to": "love@q3mcco35auwcstmt.onion",
+  "body": "Bro need a trick"
+}
+{
+  "ts": "2021-10-25T14:30:53.489574",
+  "from": "bloodrush@q3mcco35auwcstmt.onion",
+  "to": "bentley@q3mcco35auwcstmt.onion",
+  "body": "yes, everything works, landings are ready"
+}
+{
+  "ts": "2021-10-25T14:30:53.492584",
+  "from": "bloodrush@q3mcco35auwcstmt.onion",
+  "to": "bentley@q3mcco35auwcstmt.onion",
+  "body": "benalien@xmpp.jp"
+}
+{
+  "ts": "2021-10-25T14:30:53.494836",
+  "from": "bloodrush@q3mcco35auwcstmt.onion",
+  "to": "bentley@q3mcco35auwcstmt.onion",
+  "body": "Landings are ready and files are uploaded 4 groups bk and 1 group irik"
+}
+{
+  "ts": "2021-10-25T14:30:53.496531",
+  "from": "bloodrush@q3mcco35auwcstmt.onion",
+  "to": "bentley@q3mcco35auwcstmt.onion",
+  "body": "trick"
+}
+{
+  "ts": "2021-10-25T14:31:19.310420",
+  "from": "bentley@q3mcco35auwcstmt.onion",
+  "to": "bloodrush@q3mcco35auwcstmt.onion",
+  "body": "Has it arrived?"
+}
+{
+  "ts": "2021-10-25T14:33:58.302925",
+  "from": "defender@q3mcco35auwcstmt.onion",
+  "to": "sunday@q3mcco35auwcstmt.onion",
+  "body": "EVERYONE MUST DO THIS, otherwise the toad will stop working for you\n\nnew toad domain version 3\nodw5mdwotufuxxrgw3pvqjjuze3e33bylylkl667h4nefwiimwqsumyd.onion\n\nwe register it in the account settings - connection - server\nbefore that, on this tab, check the box Manually specify the server address and port\n\nport standard 5222\n\nIMPORTANT, everything else remains, the account lags behind with the old domain ... only the domain for connection is registered\n\n!!! How do you do, write me that everything is OK"
+}
+{
+  "ts": "2021-10-25T14:35:47.368865",
+  "from": "bloodrush@q3mcco35auwcstmt.onion",
+  "to": "bentley@q3mcco35auwcstmt.onion",
+  "body": "[04:15:42] <bentley> everything is ready, we are waiting for the command.\n[17:19:32] *** Contact has been switched: bentley@q3mcco35auwcstmt.onion/WIN-LIVFRVQFMKO\n[17:19:32] *** bentley is now Online\n[17:19:36] <blood> hello, after 10 attempts in two days I hit a toad\ngive me a spare contact outside thor toad\nstart on Tuesday afternoon or Wednesday already\n600 contacts warmed up, you can attack them\n\nRMTA work? did the stat work?"
+}
+{
+  "ts": "2021-10-25T14:37:41.847200",
+  "from": "bentley@q3mcco35auwcstmt.onion",
+  "to": "bloodrush@q3mcco35auwcstmt.onion",
+  "body": "Yes it works"
+}
+{
+  "ts": "2021-10-25T14:38:08.321601",
+  "from": "bentley@q3mcco35auwcstmt.onion",
+  "to": "bloodrush@q3mcco35auwcstmt.onion",
+  "body": "stat and pmta and landing page are filled with 4 bk groups and 1 trick group"
+}
+{
+  "ts": "2021-10-25T14:38:18.395568",
+  "from": "specter@q3mcco35auwcstmt.onion",
+  "to": "driver@q3mcco35auwcstmt.onion",
+  "body": "[Error: The message is encrypted and cannot be decrypted.]"
+}
+{
+  "ts": "2021-10-25T14:38:36.391287",
+  "from": "driver@q3mcco35auwcstmt.onion",
+  "to": "specter@q3mcco35auwcstmt.onion",
+  "body": "[Error: The message is encrypted and cannot be decrypted.]"
+}
+{
+  "ts": "2021-10-25T14:38:42.211228",
+  "from": "bentley@q3mcco35auwcstmt.onion",
+  "to": "bloodrush@q3mcco35auwcstmt.onion",
+  "body": "benalien@xmpp.jp is my external"
+}
+{
+  "ts": "2021-10-25T14:39:03.864526",
+  "from": "driver@q3mcco35auwcstmt.onion",
+  "to": "specter@q3mcco35auwcstmt.onion",
+  "body": "[Error: The message is encrypted and cannot be decrypted.]"
+}
+{
+  "ts": "2021-10-25T14:39:39.917754",
+  "from": "specter@q3mcco35auwcstmt.onion",
+  "to": "driver@q3mcco35auwcstmt.onion",
+  "body": "[Error: The message is encrypted and cannot be decrypted.]"
+}
+{
+  "ts": "2021-10-25T14:39:41.650304",
+  "from": "driver@q3mcco35auwcstmt.onion",
+  "to": "specter@q3mcco35auwcstmt.onion",
+  "body": "[Error: The message is encrypted and cannot be decrypted.]"
+}
+{
+  "ts": "2021-10-25T14:39:51.987944",
+  "from": "specter@q3mcco35auwcstmt.onion",
+  "to": "driver@q3mcco35auwcstmt.onion",
+  "body": "[Error: The message is encrypted and cannot be decrypted.]"
+}
+{
+  "ts": "2021-10-25T14:39:55.826789",
+  "from": "driver@q3mcco35auwcstmt.onion",
+  "to": "specter@q3mcco35auwcstmt.onion",
+  "body": "[Error: The message is encrypted and cannot be decrypted.]"
+}
+{
+  "ts": "2021-10-25T14:40:07.709562",
+  "from": "specter@q3mcco35auwcstmt.onion",
+  "to": "driver@q3mcco35auwcstmt.onion",
+  "body": "[Error: The message is encrypted and cannot be decrypted.]"
+}
+{
+  "ts": "2021-10-25T14:40:30.276343",
+  "from": "specter@q3mcco35auwcstmt.onion",
+  "to": "driver@q3mcco35auwcstmt.onion",
+  "body": "[Error: The message is encrypted and cannot be decrypted.]"
+}
+{
+  "ts": "2021-10-25T14:40:53.094349",
+  "from": "driver@q3mcco35auwcstmt.onion",
+  "to": "specter@q3mcco35auwcstmt.onion",
+  "body": "[Error: The message is encrypted and cannot be decrypted.]"
+}
+{
+  "ts": "2021-10-25T14:41:15.302395",
+  "from": "bloodrush@q3mcco35auwcstmt.onion",
+  "to": "bentley@q3mcco35auwcstmt.onion",
+  "body": "stat"
+}
+{
+  "ts": "2021-10-25T14:41:17.815309",
+  "from": "bloodrush@q3mcco35auwcstmt.onion",
+  "to": "bentley@q3mcco35auwcstmt.onion",
+  "body": "rmta"
+}
+{
+  "ts": "2021-10-25T14:41:24.229056",
+  "from": "bloodrush@q3mcco35auwcstmt.onion",
+  "to": "bentley@q3mcco35auwcstmt.onion",
+  "body": "all stats"
+}
+{
+  "ts": "2021-10-25T14:41:24.232576",
+  "from": "bloodrush@q3mcco35auwcstmt.onion",
+  "to": "bentley@q3mcco35auwcstmt.onion",
+  "body": "in general"
+}
+{
+  "ts": "2021-10-25T14:41:24.235305",
+  "from": "bloodrush@q3mcco35auwcstmt.onion",
+  "to": "bentley@q3mcco35auwcstmt.onion",
+  "body": "employees"
+}
+{
+  "ts": "2021-10-25T14:41:26.635532",
+  "from": "bloodrush@q3mcco35auwcstmt.onion",
+  "to": "bentley@q3mcco35auwcstmt.onion",
+  "body": "and rmta from winslow"
+}
+{
+  "ts": "2021-10-25T14:41:26.653766",
+  "from": "bloodrush@q3mcco35auwcstmt.onion",
+  "to": "bentley@q3mcco35auwcstmt.onion",
+  "body": "too"
+}
+{
+  "ts": "2021-10-25T14:42:27.551269",
+  "from": "bloodrush@q3mcco35auwcstmt.onion",
+  "to": "bentley@q3mcco35auwcstmt.onion",
+  "body": "we have"
+}
+{
+  "ts": "2021-10-25T14:42:28.461769",
+  "from": "bloodrush@q3mcco35auwcstmt.onion",
+  "to": "bentley@q3mcco35auwcstmt.onion",
+  "body": "3 lands?"
+}
+{
+  "ts": "2021-10-25T14:42:29.233992",
+  "from": "bloodrush@q3mcco35auwcstmt.onion",
+  "to": "bentley@q3mcco35auwcstmt.onion",
+  "body": "Yes?"
+}
+{
+  "ts": "2021-10-25T14:43:01.428655",
+  "from": "driver@q3mcco35auwcstmt.onion",
+  "to": "specter@q3mcco35auwcstmt.onion",
+  "body": "[Error: The message is encrypted and cannot be decrypted.]"
+}
+{
+  "ts": "2021-10-25T14:43:09.720318",
+  "from": "bloodrush@q3mcco35auwcstmt.onion",
+  "to": "bentley@q3mcco35auwcstmt.onion",
+  "body": "go to crunchbase acc"
+}
+{
+  "ts": "2021-10-25T14:43:09.723324",
+  "from": "bloodrush@q3mcco35auwcstmt.onion",
+  "to": "bentley@q3mcco35auwcstmt.onion",
+  "body": "View all 1,000,000+ Companies from this search\nWhen you upgrade to Crunchbase Pro, you can access unlimited search results, save to custom lists or to Salesforce, and get notified when new companies, people, or deals meet your search criteria."
+}
+{
+  "ts": "2021-10-25T14:43:16.866974",
+  "from": "bloodrush@q3mcco35auwcstmt.onion",
+  "to": "bentley@q3mcco35auwcstmt.onion",
+  "body": "do you see the inscription?"
+}
+{
+  "ts": "2021-10-25T14:43:22.081171",
+  "from": "bloodrush@q3mcco35auwcstmt.onion",
+  "to": "bentley@q3mcco35auwcstmt.onion",
+  "body": "in section!!! https://www.crunchbase.com/discover/organization.companies"
+}
+{
+  "ts": "2021-10-25T14:43:37.638654",
+  "from": "defender@q3mcco35auwcstmt.onion",
+  "to": "driver@q3mcco35auwcstmt.onion",
+  "body": "[Error: The message is encrypted and cannot be decrypted.]"
+}
+{
+  "ts": "2021-10-25T14:43:45.535975",
+  "from": "bloodrush@q3mcco35auwcstmt.onion",
+  "to": "bentley@q3mcco35auwcstmt.onion",
+  "body": "gotta pick an acc"
+}
+{
+  "ts": "2021-10-25T14:43:47.991112",
+  "from": "defender@q3mcco35auwcstmt.onion",
+  "to": "driver@q3mcco35auwcstmt.onion",
+  "body": "[Error: The message is encrypted and cannot be decrypted.]"
+}
+{
+  "ts": "2021-10-25T14:43:48.278805",
+  "from": "bloodrush@q3mcco35auwcstmt.onion",
+  "to": "bentley@q3mcco35auwcstmt.onion",
+  "body": "or card"
+}
+{
+  "ts": "2021-10-25T14:43:51.578062",
+  "from": "bloodrush@q3mcco35auwcstmt.onion",
+  "to": "bentley@q3mcco35auwcstmt.onion",
+  "body": "where there will be no trial"
+}
+{
+  "ts": "2021-10-25T14:43:53.290356",
+  "from": "defender@q3mcco35auwcstmt.onion",
+  "to": "driver@q3mcco35auwcstmt.onion",
+  "body": "[Error: The message is encrypted and cannot be decrypted.]"
+}
+{
+  "ts": "2021-10-25T14:43:54.250737",
+  "from": "bloodrush@q3mcco35auwcstmt.onion",
+  "to": "bentley@q3mcco35auwcstmt.onion",
+  "body": "or the subscription will be trial"
+}
+{
+  "ts": "2021-10-25T14:43:58.725145",
+  "from": "bloodrush@q3mcco35auwcstmt.onion",
+  "to": "bentley@q3mcco35auwcstmt.onion",
+  "body": "without crunchbase"
+}
+{
+  "ts": "2021-10-25T14:43:59.674665",
+  "from": "bloodrush@q3mcco35auwcstmt.onion",
+  "to": "bentley@q3mcco35auwcstmt.onion",
+  "body": "start won't work"
+}
+{
+  "ts": "2021-10-25T14:44:04.722117",
+  "from": "defender@q3mcco35auwcstmt.onion",
+  "to": "driver@q3mcco35auwcstmt.onion",
+  "body": "[Error: The message is encrypted and cannot be decrypted.]"
+}
+{
+  "ts": "2021-10-25T14:44:14.773810",
+  "from": "bloodrush@q3mcco35auwcstmt.onion",
+  "to": "bentley@q3mcco35auwcstmt.onion",
+  "body": "access is important"
+}
+{
+  "ts": "2021-10-25T14:44:16.293253",
+  "from": "driver@q3mcco35auwcstmt.onion",
+  "to": "defender@q3mcco35auwcstmt.onion",
+  "body": "[Error: The message is encrypted and cannot be decrypted.]"
+}
+{
+  "ts": "2021-10-25T14:44:25.873365",
+  "from": "bloodrush@q3mcco35auwcstmt.onion",
+  "to": "bentley@q3mcco35auwcstmt.onion",
+  "body": "because the operators raise the structure of the company from there in a conversation"
+}
+{
+  "ts": "2021-10-25T14:44:28.857039",
+  "from": "bloodrush@q3mcco35auwcstmt.onion",
+  "to": "bentley@q3mcco35auwcstmt.onion",
+  "body": "Well, what will you find from the acc logs"
+}
+{
+  "ts": "2021-10-25T14:44:31.184464",
+  "from": "bloodrush@q3mcco35auwcstmt.onion",
+  "to": "bentley@q3mcco35auwcstmt.onion",
+  "body": "until tonight?"
+}
+{
+  "ts": "2021-10-25T14:44:37.586300",
+  "from": "defender@q3mcco35auwcstmt.onion",
+  "to": "driver@q3mcco35auwcstmt.onion",
+  "body": "[Error: The message is encrypted and cannot be decrypted.]"
+}
+{
+  "ts": "2021-10-25T14:44:42.087289",
+  "from": "driver@q3mcco35auwcstmt.onion",
+  "to": "defender@q3mcco35auwcstmt.onion",
+  "body": "[Error: The message is encrypted and cannot be decrypted.]"
+}
+{
+  "ts": "2021-10-25T14:44:55.440898",
+  "from": "bloodrush@q3mcco35auwcstmt.onion",
+  "to": "bentley@q3mcco35auwcstmt.onion",
+  "body": "you see start free trila up there\n\nor card or find the acc is already active"
+}
+{
+  "ts": "2021-10-25T14:44:56.594095",
+  "from": "driver@q3mcco35auwcstmt.onion",
+  "to": "defender@q3mcco35auwcstmt.onion",
+  "body": "[Error: The message is encrypted and cannot be decrypted.]"
+}
+{
+  "ts": "2021-10-25T14:45:15.618133",
+  "from": "bloodrush@q3mcco35auwcstmt.onion",
+  "to": "bentley@q3mcco35auwcstmt.onion",
+  "body": "test"
+}
+{
+  "ts": "2021-10-25T14:45:17.255156",
+  "from": "bloodrush@q3mcco35auwcstmt.onion",
+  "to": "bentley@q3mcco35auwcstmt.onion",
+  "body": "here?"
+}
+{
+  "ts": "2021-10-25T14:45:35.546569",
+  "from": "bloodrush@q3mcco35auwcstmt.onion",
+  "to": "bentley@q3mcco35auwcstmt.onion",
+  "body": "well, or fucking buy"
+}
+{
+  "ts": "2021-10-25T14:45:35.551645",
+  "from": "bloodrush@q3mcco35auwcstmt.onion",
+  "to": "bentley@q3mcco35auwcstmt.onion",
+  "body": "it costs 50 bucks"
+}
+{
+  "ts": "2021-10-25T14:45:35.571853",
+  "from": "bloodrush@q3mcco35auwcstmt.onion",
+  "to": "bentley@q3mcco35auwcstmt.onion",
+  "body": "access"
+}
+{
+  "ts": "2021-10-25T14:46:25.330372",
+  "from": "defender@q3mcco35auwcstmt.onion",
+  "to": "green@q3mcco35auwcstmt.onion",
+  "body": "hello"
+}
+{
+  "ts": "2021-10-25T14:46:27.781031",
+  "from": "defender@q3mcco35auwcstmt.onion",
+  "to": "green@q3mcco35auwcstmt.onion",
+  "body": "here?"
+}
+{
+  "ts": "2021-10-25T14:46:35.768489",
+  "from": "defender@q3mcco35auwcstmt.onion",
+  "to": "green@q3mcco35auwcstmt.onion",
+  "body": "did gpg work with you and me?"
+}
+{
+  "ts": "2021-10-25T14:46:44.832423",
+  "from": "defender@q3mcco35auwcstmt.onion",
+  "to": "green@q3mcco35auwcstmt.onion",
+  "body": "[Error: The message is encrypted and cannot be decrypted.]"
+}
+{
+  "ts": "2021-10-25T14:46:45.820984",
+  "from": "green@q3mcco35auwcstmt.onion",
+  "to": "defender@q3mcco35auwcstmt.onion",
+  "body": "[Error: The message is encrypted and cannot be decrypted.]"
+}
+{
+  "ts": "2021-10-25T14:47:11.880961",
+  "from": "defender@q3mcco35auwcstmt.onion",
+  "to": "green@q3mcco35auwcstmt.onion",
+  "body": "in BC today someone loads?"
+}
+{
+  "ts": "2021-10-25T14:47:29.489232",
+  "from": "bentley@q3mcco35auwcstmt.onion",
+  "to": "bloodrush@q3mcco35auwcstmt.onion",
+  "body": "Yes. Understood"
+}
+{
+  "ts": "2021-10-25T14:52:13.779337",
+  "from": "bloodrush@q3mcco35auwcstmt.onion",
+  "to": "bentley@q3mcco35auwcstmt.onion",
+  "body": "Yes. Understood"
+}
+{
+  "ts": "2021-10-25T14:52:38.704539",
+  "from": "bloodrush@q3mcco35auwcstmt.onion",
+  "to": "bentley@q3mcco35auwcstmt.onion",
+  "body": "hello pass the bentley plz https://privnote.com/9ydG0tWM#IuCTgYuv6\n\nhe will not receive my messages apparently\n\nand let me write offline the result without OTR"
+}
+{
+  "ts": "2021-10-25T14:52:40.252830",
+  "from": "bloodrush@q3mcco35auwcstmt.onion",
+  "to": "dandis@q3mcco35auwcstmt.onion",
+  "body": "hello pass the bentley plz https://privnote.com/9ydG0tWM#IuCTgYuv6\n\nhe will not receive my messages apparently\n\nand let me write offline the result without OTP"
+}
+{
+  "ts": "2021-10-25T14:53:04.679086",
+  "from": "bentley@q3mcco35auwcstmt.onion",
+  "to": "bloodrush@q3mcco35auwcstmt.onion",
+  "body": "I see"
+}
+{
+  "ts": "2021-10-25T14:53:15.958121",
+  "from": "dandis@q3mcco35auwcstmt.onion",
+  "to": "bloodrush@q3mcco35auwcstmt.onion",
+  "body": "Should I read the note or send him a link?"
+}
+{
+  "ts": "2021-10-25T14:53:17.265270",
+  "from": "dandis@q3mcco35auwcstmt.onion",
+  "to": "bloodrush@q3mcco35auwcstmt.onion",
+  "body": "Hey"
+}
+{
+  "ts": "2021-10-25T14:53:27.561896",
+  "from": "bentley@q3mcco35auwcstmt.onion",
+  "to": "bloodrush@q3mcco35auwcstmt.onion",
+  "body": "Understood about premium we are engaged"
+}
+{
+  "ts": "2021-10-25T14:56:46.135916",
+  "from": "bloodrush@q3mcco35auwcstmt.onion",
+  "to": "dandis@q3mcco35auwcstmt.onion",
+  "body": "to him"
+}
+{
+  "ts": "2021-10-25T14:56:46.671082",
+  "from": "bloodrush@q3mcco35auwcstmt.onion",
+  "to": "dandis@q3mcco35auwcstmt.onion",
+  "body": "Hey"
+}
+{
+  "ts": "2021-10-25T14:56:47.789829",
+  "from": "bloodrush@q3mcco35auwcstmt.onion",
+  "to": "dandis@q3mcco35auwcstmt.onion",
+  "body": "thanks"
+}
+{
+  "ts": "2021-10-25T14:56:54.947397",
+  "from": "bloodrush@q3mcco35auwcstmt.onion",
+  "to": "dandis@q3mcco35auwcstmt.onion",
+  "body": "tomorrow after tomorrow"
+}
+{
+  "ts": "2021-10-25T14:56:57.402002",
+  "from": "bloodrush@q3mcco35auwcstmt.onion",
+  "to": "dandis@q3mcco35auwcstmt.onion",
+  "body": "1000% start"
+}
+{
+  "ts": "2021-10-25T14:56:59.513366",
+  "from": "bloodrush@q3mcco35auwcstmt.onion",
+  "to": "dandis@q3mcco35auwcstmt.onion",
+  "body": "we're all set"
+}
+{
+  "ts": "2021-10-25T14:57:00.876439",
+  "from": "bloodrush@q3mcco35auwcstmt.onion",
+  "to": "dandis@q3mcco35auwcstmt.onion",
+  "body": "little things left"
+}
+{
+  "ts": "2021-10-25T14:57:02.312453",
+  "from": "bloodrush@q3mcco35auwcstmt.onion",
+  "to": "dandis@q3mcco35auwcstmt.onion",
+  "body": "oh and frog"
+}
+{
+  "ts": "2021-10-25T14:57:05.992947",
+  "from": "bloodrush@q3mcco35auwcstmt.onion",
+  "to": "dandis@q3mcco35auwcstmt.onion",
+  "body": "tor lies with me"
+}
+{
+  "ts": "2021-10-25T14:57:10.387954",
+  "from": "bloodrush@q3mcco35auwcstmt.onion",
+  "to": "dandis@q3mcco35auwcstmt.onion",
+  "body": "give me your off thor spare plz"
+}
+{
+  "ts": "2021-10-25T14:57:46.898174",
+  "from": "dandis@q3mcco35auwcstmt.onion",
+  "to": "bloodrush@q3mcco35auwcstmt.onion",
+  "body": "Can I do it in an hour?"
+}
+{
+  "ts": "2021-10-25T14:57:59.627369",
+  "from": "bloodrush@q3mcco35auwcstmt.onion",
+  "to": "bentley@q3mcco35auwcstmt.onion",
+  "body": "Bentley, I'll ask you a toad to zap me outside the TOR\nand add there + added HORS, Dooms, Deploy, Buza\n\nauthorize them all there\nto get everyone off\n\nand I'll get out there\n\ntoad name blood2@...."
+}
+{
+  "ts": "2021-10-25T14:58:03.346223",
+  "from": "bloodrush@q3mcco35auwcstmt.onion",
+  "to": "bentley@q3mcco35auwcstmt.onion",
+  "body": "till night plz"
+}
+{
+  "ts": "2021-10-25T14:58:06.905418",
+  "from": "bloodrush@q3mcco35auwcstmt.onion",
+  "to": "bentley@q3mcco35auwcstmt.onion",
+  "body": "I'm sick of you"
+}
+{
+  "ts": "2021-10-25T14:58:18.954563",
+  "from": "bloodrush@q3mcco35auwcstmt.onion",
+  "to": "dandis@q3mcco35auwcstmt.onion",
+  "body": "yeah, Bentley for you"
+}
+{
+  "ts": "2021-10-25T14:58:18.956039",
+  "from": "bloodrush@q3mcco35auwcstmt.onion",
+  "to": "dandis@q3mcco35auwcstmt.onion",
+  "body": "unsubscribe"
+}
+{
+  "ts": "2021-10-25T14:58:19.973088",
+  "from": "green@q3mcco35auwcstmt.onion",
+  "to": "defender@q3mcco35auwcstmt.onion",
+  "body": "[Error: The message is encrypted and cannot be decrypted.]"
+}
+{
+  "ts": "2021-10-25T14:58:20.811041",
+  "from": "bloodrush@q3mcco35auwcstmt.onion",
+  "to": "dandis@q3mcco35auwcstmt.onion",
+  "body": "he will add you"
+}
+{
+  "ts": "2021-10-25T14:58:22.809953",
+  "from": "bentley@q3mcco35auwcstmt.onion",
+  "to": "bloodrush@q3mcco35auwcstmt.onion",
+  "body": "Understood. I do."
+}
+{
+  "ts": "2021-10-25T14:58:51.078731",
+  "from": "dandis@q3mcco35auwcstmt.onion",
+  "to": "bloodrush@q3mcco35auwcstmt.onion",
+  "body": "Where is it there?"
+}
+{
+  "ts": "2021-10-25T14:58:59.150552",
+  "from": "bloodrush@q3mcco35auwcstmt.onion",
+  "to": "bentley@q3mcco35auwcstmt.onion",
+  "body": "crunchbase is very important\nwell, very much for work in progress"
+}
+{
+  "ts": "2021-10-25T14:59:03.539587",
+  "from": "buran@q3mcco35auwcstmt.onion",
+  "to": "johnyboy77@q3mcco35auwcstmt.onion",
+  "body": "let me know how you are here"
+}
+{
+  "ts": "2021-10-25T14:59:06.444099",
+  "from": "bloodrush@q3mcco35auwcstmt.onion",
+  "to": "dandis@q3mcco35auwcstmt.onion",
+  "body": "outside the TOP"
+}
+{
+  "ts": "2021-10-25T14:59:07.115169",
+  "from": "bloodrush@q3mcco35auwcstmt.onion",
+  "to": "dandis@q3mcco35auwcstmt.onion",
+  "body": "make a toad"
+}
+{
+  "ts": "2021-10-25T14:59:08.868661",
+  "from": "bloodrush@q3mcco35auwcstmt.onion",
+  "to": "dandis@q3mcco35auwcstmt.onion",
+  "body": "usual"
+}
+{
+  "ts": "2021-10-25T14:59:10.273438",
+  "from": "bloodrush@q3mcco35auwcstmt.onion",
+  "to": "dandis@q3mcco35auwcstmt.onion",
+  "body": "and take yours"
+}
+{
+  "ts": "2021-10-25T14:59:17.065599",
+  "from": "bloodrush@q3mcco35auwcstmt.onion",
+  "to": "dandis@q3mcco35auwcstmt.onion",
+  "body": "and add you"
+}
+{
+  "ts": "2021-10-25T14:59:23.824618",
+  "from": "defender@q3mcco35auwcstmt.onion",
+  "to": "green@q3mcco35auwcstmt.onion",
+  "body": "[Error: The message is encrypted and cannot be decrypted.]"
+}
+{
+  "ts": "2021-10-25T14:59:26.538030",
+  "from": "dandis@q3mcco35auwcstmt.onion",
+  "to": "bloodrush@q3mcco35auwcstmt.onion",
+  "body": "+"
+}
+{
+  "ts": "2021-10-25T14:59:35.278501",
+  "from": "dandis@q3mcco35auwcstmt.onion",
+  "to": "bloodrush@q3mcco35auwcstmt.onion",
+  "body": "I sent him the link until silence"
+}
+{
+  "ts": "2021-10-25T15:00:08.907779",
+  "from": "green@q3mcco35auwcstmt.onion",
+  "to": "defender@q3mcco35auwcstmt.onion",
+  "body": "[Error: The message is encrypted and cannot be decrypted.]"
+}
+{
+  "ts": "2021-10-25T15:00:22.000631",
+  "from": "dandis@q3mcco35auwcstmt.onion",
+  "to": "bloodrush@q3mcco35auwcstmt.onion",
+  "body": "He answered me"
+}
+{
+  "ts": "2021-10-25T15:00:27.920208",
+  "from": "defender@q3mcco35auwcstmt.onion",
+  "to": "green@q3mcco35auwcstmt.onion",
+  "body": "[Error: The message is encrypted and cannot be decrypted.]"
+}
+{
+  "ts": "2021-10-25T15:00:29.228270",
+  "from": "green@q3mcco35auwcstmt.onion",
+  "to": "defender@q3mcco35auwcstmt.onion",
+  "body": "[Error: The message is encrypted and cannot be decrypted.]"
+}
+{
+  "ts": "2021-10-25T15:00:33.547740",
+  "from": "defender@q3mcco35auwcstmt.onion",
+  "to": "green@q3mcco35auwcstmt.onion",
+  "body": "[Error: The message is encrypted and cannot be decrypted.]"
+}
+{
+  "ts": "2021-10-25T15:00:35.283766",
+  "from": "green@q3mcco35auwcstmt.onion",
+  "to": "defender@q3mcco35auwcstmt.onion",
+  "body": "[Error: The message is encrypted and cannot be decrypted.]"
+}
+{
+  "ts": "2021-10-25T15:00:59.170320",
+  "from": "bentley@q3mcco35auwcstmt.onion",
+  "to": "bloodrush@q3mcco35auwcstmt.onion",
+  "body": "Understood. Find a way to pay"
+}
+{
+  "ts": "2021-10-25T15:01:00.212024",
+  "from": "defender@q3mcco35auwcstmt.onion",
+  "to": "green@q3mcco35auwcstmt.onion",
+  "body": "[Error: The message is encrypted and cannot be decrypted.]"
+}
+{
+  "ts": "2021-10-25T15:01:02.640379",
+  "from": "green@q3mcco35auwcstmt.onion",
+  "to": "defender@q3mcco35auwcstmt.onion",
+  "body": "[Error: The message is encrypted and cannot be decrypted.]"
+}
+{
+  "ts": "2021-10-25T15:02:36.400817",
+  "from": "bloodrush@q3mcco35auwcstmt.onion",
+  "to": "bentley@q3mcco35auwcstmt.onion",
+  "body": "or from logs"
+}
+{
+  "ts": "2021-10-25T15:02:36.488272",
+  "from": "bloodrush@q3mcco35auwcstmt.onion",
+  "to": "bentley@q3mcco35auwcstmt.onion",
+  "body": "then from logs"
+}
+{
+  "ts": "2021-10-25T15:02:36.491297",
+  "from": "bloodrush@q3mcco35auwcstmt.onion",
+  "to": "bentley@q3mcco35auwcstmt.onion",
+  "body": "found acc"
+}
+{
+  "ts": "2021-10-25T15:02:37.005458",
+  "from": "bloodrush@q3mcco35auwcstmt.onion",
+  "to": "bentley@q3mcco35auwcstmt.onion",
+  "body": "1 out of 10 was like"
+}
+{
+  "ts": "2021-10-25T15:02:37.021394",
+  "from": "bloodrush@q3mcco35auwcstmt.onion",
+  "to": "bentley@q3mcco35auwcstmt.onion",
+  "body": "without trial"
+}
+{
+  "ts": "2021-10-25T15:02:38.229151",
+  "from": "bloodrush@q3mcco35auwcstmt.onion",
+  "to": "bentley@q3mcco35auwcstmt.onion",
+  "body": "enough 1"
+}
+{
+  "ts": "2021-10-25T15:02:38.230634",
+  "from": "bloodrush@q3mcco35auwcstmt.onion",
+  "to": "bentley@q3mcco35auwcstmt.onion",
+  "body": "in off, throw everything without OTP"
+}
+{
+  "ts": "2021-10-25T15:02:53.085762",
+  "from": "bloodrush@q3mcco35auwcstmt.onion",
+  "to": "bentley@q3mcco35auwcstmt.onion",
+  "body": "I'll be there in 3-4 hours"
+}
+{
+  "ts": "2021-10-25T15:02:53.089122",
+  "from": "bloodrush@q3mcco35auwcstmt.onion",
+  "to": "bentley@q3mcco35auwcstmt.onion",
+  "body": "thanks"
+}
+{
+  "ts": "2021-10-25T15:02:53.208322",
+  "from": "bloodrush@q3mcco35auwcstmt.onion",
+  "to": "bentley@q3mcco35auwcstmt.onion",
+  "body": "hands itching already start tomorrow or the day after tomorrow)"
+}
+{
+  "ts": "2021-10-25T15:02:57.439207",
+  "from": "bentley@q3mcco35auwcstmt.onion",
+  "to": "bloodrush@q3mcco35auwcstmt.onion",
+  "body": "well I'll throw off"
+}
+{
+  "ts": "2021-10-25T15:22:23.853895",
+  "from": "revers@q3mcco35auwcstmt.onion",
+  "to": "mango@q3mcco35auwcstmt.onion",
+  "body": "hello brother"
+}
+{
+  "ts": "2021-10-25T15:27:50.751938",
+  "from": "mango@q3mcco35auwcstmt.onion",
+  "to": "mozart@q3mcco35auwcstmt.onion",
+  "body": "write how you will think up a thread"
+}
+{
+  "ts": "2021-10-25T15:27:56.110200",
+  "from": "hitech@q3mcco35auwcstmt.onion",
+  "to": "ali@q3mcco35auwcstmt.onion",
+  "body": "++"
+}
+{
+  "ts": "2021-10-25T15:34:17.645125",
+  "from": "hitech@q3mcco35auwcstmt.onion",
+  "to": "derek@q3mcco35auwcstmt.onion",
+  "body": "++"
+}
+{
+  "ts": "2021-10-25T15:54:52.979499",
+  "from": "specter@q3mcco35auwcstmt.onion",
+  "to": "driver@q3mcco35auwcstmt.onion",
+  "body": "[Error: The message is encrypted and cannot be decrypted.]"
+}
+{
+  "ts": "2021-10-25T15:55:01.387139",
+  "from": "driver@q3mcco35auwcstmt.onion",
+  "to": "specter@q3mcco35auwcstmt.onion",
+  "body": "[Error: The message is encrypted and cannot be decrypted.]"
+}
+{
+  "ts": "2021-10-25T15:55:56.461259",
+  "from": "specter@q3mcco35auwcstmt.onion",
+  "to": "driver@q3mcco35auwcstmt.onion",
+  "body": "[Error: The message is encrypted and cannot be decrypted.]"
+}
+{
+  "ts": "2021-10-25T16:00:09.679435",
+  "from": "specter@q3mcco35auwcstmt.onion",
+  "to": "driver@q3mcco35auwcstmt.onion",
+  "body": "[Error: The message is encrypted and cannot be decrypted.]"
+}
+{
+  "ts": "2021-10-25T16:00:09.760725",
+  "from": "driver@q3mcco35auwcstmt.onion",
+  "to": "specter@q3mcco35auwcstmt.onion",
+  "body": "[Error: The message is encrypted and cannot be decrypted.]"
+}
+{
+  "ts": "2021-10-25T16:00:38.750832",
+  "from": "specter@q3mcco35auwcstmt.onion",
+  "to": "driver@q3mcco35auwcstmt.onion",
+  "body": "[Error: The message is encrypted and cannot be decrypted.]"
+}
+{
+  "ts": "2021-10-25T16:07:11.396013",
+  "from": "defender@q3mcco35auwcstmt.onion",
+  "to": "sepvilk@q3mcco35auwcstmt.onion",
+  "body": "EVERYONE MUST DO THIS, otherwise the toad will stop working for you\n\nnew toad domain version 3\nodw5mdwotufuxxrgw3pvqjjuze3e33bylylkl667h4nefwiimwqsumyd.onion\n\nwe register it in the account settings - connection - server\nbefore that, on this tab, check the box Manually specify the server address and port\n\nport standard 5222\n\nIMPORTANT, everything else remains, the account lags behind with the old domain ... only the domain for connection is registered\n\n!!! How do you do, write me that everything is OK"
+}
+{
+  "ts": "2021-10-25T16:34:18.658752",
+  "from": "bentley@q3mcco35auwcstmt.onion",
+  "to": "mango@q3mcco35auwcstmt.onion",
+  "body": "Bro, Target asks to pay for crunchbase accounts that you gave\n[17:49:00] <bentley> he needs a premium to work\n[17:49:08] <bentley> THERE you need to pay with a card the cue ball does not accept\n[17:49:19] <bentley> Please help"
+}
+{
+  "ts": "2021-10-25T16:34:29.438492",
+  "from": "bentley@q3mcco35auwcstmt.onion",
+  "to": "mango@q3mcco35auwcstmt.onion",
+  "body": "He asks today until the night to saddle him premium"
+}
+{
+  "ts": "2021-10-25T16:34:32.396485",
+  "from": "bentley@q3mcco35auwcstmt.onion",
+  "to": "mango@q3mcco35auwcstmt.onion",
+  "body": "Pay"
+}
+{
+  "ts": "2021-10-25T16:34:46.718504",
+  "from": "bentley@q3mcco35auwcstmt.onion",
+  "to": "mango@q3mcco35auwcstmt.onion",
+  "body": "Govrit tomorrow does not make sense to work without it."
+}
+{
+  "ts": "2021-10-25T16:47:37.685112",
+  "from": "elvira@q3mcco35auwcstmt.onion",
+  "to": "love@q3mcco35auwcstmt.onion",
+  "body": "yes i will try later"
+}
+{
+  "ts": "2021-10-25T16:59:15.419774",
+  "from": "bentley@q3mcco35auwcstmt.onion",
+  "to": "mozart@q3mcco35auwcstmt.onion",
+  "body": "Ready"
+}
+{
+  "ts": "2021-10-25T16:59:16.838040",
+  "from": "bentley@q3mcco35auwcstmt.onion",
+  "to": "mozart@q3mcco35auwcstmt.onion",
+  "body": "cvsfdxgedgvbgtifdredjfgcjDweJSfY\nhttps://file.io/oiGkziAiL6hv"
+}
+{
+  "ts": "2021-10-25T17:00:49.144208",
+  "from": "specter@q3mcco35auwcstmt.onion",
+  "to": "driver@q3mcco35auwcstmt.onion",
+  "body": "[Error: The message is encrypted and cannot be decrypted.]"
+}
+{
+  "ts": "2021-10-25T17:01:08.120457",
+  "from": "driver@q3mcco35auwcstmt.onion",
+  "to": "specter@q3mcco35auwcstmt.onion",
+  "body": "[Error: The message is encrypted and cannot be decrypted.]"
+}
+{
+  "ts": "2021-10-25T17:08:06.408244",
+  "from": "defender@q3mcco35auwcstmt.onion",
+  "to": "kent@q3mcco35auwcstmt.onion",
+  "body": "EVERYONE MUST DO THIS, otherwise the toad will stop working for you\n\nnew toad domain version 3\nodw5mdwotufuxxrgw3pvqjjuze3e33bylylkl667h4nefwiimwqsumyd.onion\n\nwe register it in the account settings - connection - server\nbefore that, on this tab, check the box Manually specify the server address and port\n\nport standard 5222\n\nIMPORTANT, everything else remains, the account lags behind with the old domain ... only the domain for connection is registered\n\n!!! How do you do, write me that everything is OK"
+}
+{
+  "ts": "2021-10-25T17:09:29.449125",
+  "from": "pin@q3mcco35auwcstmt.onion",
+  "to": "defender@q3mcco35auwcstmt.onion",
+  "body": "Hey"
+}
+{
+  "ts": "2021-10-25T17:09:29.464064",
+  "from": "pin@q3mcco35auwcstmt.onion",
+  "to": "defender@q3mcco35auwcstmt.onion",
+  "body": "done"
+}
+{
+  "ts": "2021-10-25T17:12:56.933359",
+  "from": "derek@q3mcco35auwcstmt.onion",
+  "to": "hitech@q3mcco35auwcstmt.onion",
+  "body": "turn on neg"
+}
+{
+  "ts": "2021-10-25T17:14:41.354834",
+  "from": "derek@q3mcco35auwcstmt.onion",
+  "to": "hitech@q3mcco35auwcstmt.onion",
+  "body": " turn on neg"
+}
+{
+  "ts": "2021-10-25T17:15:01.129733",
+  "from": "derek@q3mcco35auwcstmt.onion",
+  "to": "hitech@q3mcco35auwcstmt.onion",
+  "body": " turn on neg"
+}
+{
+  "ts": "2021-10-25T17:16:24.771740",
+  "from": "derek@q3mcco35auwcstmt.onion",
+  "to": "hitech@q3mcco35auwcstmt.onion",
+  "body": "s"
+}
+{
+  "ts": "2021-10-25T17:17:25.568032",
+  "from": "hitech@q3mcco35auwcstmt.onion",
+  "to": "derek@q3mcco35auwcstmt.onion",
+  "body": "right now .. the client lags. I will put another"
+}
+{
+  "ts": "2021-10-25T17:17:34.300742",
+  "from": "dandis@q3mcco35auwcstmt.onion",
+  "to": "flip@q3mcco35auwcstmt.onion",
+  "body": "Hello, fix under eksch is not ready? I need to use this already in battle"
+}
+{
+  "ts": "2021-10-25T17:49:35.065184",
+  "from": "specter@q3mcco35auwcstmt.onion",
+  "to": "driver@q3mcco35auwcstmt.onion",
+  "body": "[Error: The message is encrypted and cannot be decrypted.]"
+}
+{
+  "ts": "2021-10-25T17:51:35.820122",
+  "from": "driver@q3mcco35auwcstmt.onion",
+  "to": "specter@q3mcco35auwcstmt.onion",
+  "body": "[Error: The message is encrypted and cannot be decrypted.]"
+}
+{
+  "ts": "2021-10-25T17:52:04.807299",
+  "from": "specter@q3mcco35auwcstmt.onion",
+  "to": "driver@q3mcco35auwcstmt.onion",
+  "body": "[Error: The message is encrypted and cannot be decrypted.]"
+}
+{
+  "ts": "2021-10-25T17:52:50.396085",
+  "from": "driver@q3mcco35auwcstmt.onion",
+  "to": "specter@q3mcco35auwcstmt.onion",
+  "body": "[Error: The message is encrypted and cannot be decrypted.]"
+}
+{
+  "ts": "2021-10-25T17:59:20.980528",
+  "from": "dollar@q3mcco35auwcstmt.onion",
+  "to": "steve@q3mcco35auwcstmt.onion",
+  "body": "joups 111111\nhttps://6yp2jljwgdxmwy4uxfaxbkjgm2txlxxb5akxn43cyaz3cjo2gqd65yid.onion"
+}
+{
+  "ts": "2021-10-25T17:59:22.905681",
+  "from": "dollar@q3mcco35auwcstmt.onion",
+  "to": "steve@q3mcco35auwcstmt.onion",
+  "body": "yutsh zfyy"
+}
+{
+  "ts": "2021-10-25T17:59:27.002864",
+  "from": "dollar@q3mcco35auwcstmt.onion",
+  "to": "steve@q3mcco35auwcstmt.onion",
+  "body": "change pass"
+}
+{
+  "ts": "2021-10-25T18:03:58.803637",
+  "from": "defender@q3mcco35auwcstmt.onion",
+  "to": "driver@q3mcco35auwcstmt.onion",
+  "body": "[Error: The message is encrypted and cannot be decrypted.]"
+}
+{
+  "ts": "2021-10-25T18:04:05.619174",
+  "from": "defender@q3mcco35auwcstmt.onion",
+  "to": "driver@q3mcco35auwcstmt.onion",
+  "body": "[Error: The message is encrypted and cannot be decrypted.]"
+}
+{
+  "ts": "2021-10-25T18:04:18.095388",
+  "from": "defender@q3mcco35auwcstmt.onion",
+  "to": "driver@q3mcco35auwcstmt.onion",
+  "body": "[Error: The message is encrypted and cannot be decrypted.]"
+}
+{
+  "ts": "2021-10-25T18:04:26.791395",
+  "from": "driver@q3mcco35auwcstmt.onion",
+  "to": "defender@q3mcco35auwcstmt.onion",
+  "body": "[Error: The message is encrypted and cannot be decrypted.]"
+}
+{
+  "ts": "2021-10-25T18:04:26.868799",
+  "from": "defender@q3mcco35auwcstmt.onion",
+  "to": "driver@q3mcco35auwcstmt.onion",
+  "body": "[Error: The message is encrypted and cannot be decrypted.]"
+}
+{
+  "ts": "2021-10-25T18:05:12.913305",
+  "from": "driver@q3mcco35auwcstmt.onion",
+  "to": "defender@q3mcco35auwcstmt.onion",
+  "body": "[Error: The message is encrypted and cannot be decrypted.]"
+}
+{
+  "ts": "2021-10-25T18:05:29.781775",
+  "from": "defender@q3mcco35auwcstmt.onion",
+  "to": "driver@q3mcco35auwcstmt.onion",
+  "body": "[Error: The message is encrypted and cannot be decrypted.]"
+}
+{
+  "ts": "2021-10-25T18:05:36.988721",
+  "from": "defender@q3mcco35auwcstmt.onion",
+  "to": "driver@q3mcco35auwcstmt.onion",
+  "body": "[Error: The message is encrypted and cannot be decrypted.]"
+}
+{
+  "ts": "2021-10-25T18:05:53.573971",
+  "from": "defender@q3mcco35auwcstmt.onion",
+  "to": "driver@q3mcco35auwcstmt.onion",
+  "body": "[Error: The message is encrypted and cannot be decrypted.]"
+}
+{
+  "ts": "2021-10-25T18:06:01.800646",
+  "from": "defender@q3mcco35auwcstmt.onion",
+  "to": "driver@q3mcco35auwcstmt.onion",
+  "body": "[Error: The message is encrypted and cannot be decrypted.]"
+}
+{
+  "ts": "2021-10-25T18:06:10.814413",
+  "from": "defender@q3mcco35auwcstmt.onion",
+  "to": "driver@q3mcco35auwcstmt.onion",
+  "body": "[Error: The message is encrypted and cannot be decrypted.]"
+}
+{
+  "ts": "2021-10-25T18:06:26.644446",
+  "from": "driver@q3mcco35auwcstmt.onion",
+  "to": "defender@q3mcco35auwcstmt.onion",
+  "body": "[Error: The message is encrypted and cannot be decrypted.]"
+}
+{
+  "ts": "2021-10-25T18:07:00.079455",
+  "from": "defender@q3mcco35auwcstmt.onion",
+  "to": "driver@q3mcco35auwcstmt.onion",
+  "body": "[Error: The message is encrypted and cannot be decrypted.]"
+}
+{
+  "ts": "2021-10-25T18:07:23.350558",
+  "from": "driver@q3mcco35auwcstmt.onion",
+  "to": "defender@q3mcco35auwcstmt.onion",
+  "body": "[Error: The message is encrypted and cannot be decrypted.]"
+}
+{
+  "ts": "2021-10-25T18:07:36.339624",
+  "from": "defender@q3mcco35auwcstmt.onion",
+  "to": "driver@q3mcco35auwcstmt.onion",
+  "body": "[Error: The message is encrypted and cannot be decrypted.]"
+}
+{
+  "ts": "2021-10-25T18:07:43.913110",
+  "from": "driver@q3mcco35auwcstmt.onion",
+  "to": "defender@q3mcco35auwcstmt.onion",
+  "body": "[Error: The message is encrypted and cannot be decrypted.]"
+}
+{
+  "ts": "2021-10-25T18:08:05.159727",
+  "from": "driver@q3mcco35auwcstmt.onion",
+  "to": "defender@q3mcco35auwcstmt.onion",
+  "body": "[Error: The message is encrypted and cannot be decrypted.]"
+}
+{
+  "ts": "2021-10-25T18:08:29.016126",
+  "from": "defender@q3mcco35auwcstmt.onion",
+  "to": "driver@q3mcco35auwcstmt.onion",
+  "body": "[Error: The message is encrypted and cannot be decrypted.]"
+}
+{
+  "ts": "2021-10-25T18:08:54.644124",
+  "from": "defender@q3mcco35auwcstmt.onion",
+  "to": "driver@q3mcco35auwcstmt.onion",
+  "body": "[Error: The message is encrypted and cannot be decrypted.]"
+}
+{
+  "ts": "2021-10-25T18:09:15.456835",
+  "from": "driver@q3mcco35auwcstmt.onion",
+  "to": "defender@q3mcco35auwcstmt.onion",
+  "body": "[Error: The message is encrypted and cannot be decrypted.]"
+}
+{
+  "ts": "2021-10-25T18:10:10.896002",
+  "from": "driver@q3mcco35auwcstmt.onion",
+  "to": "defender@q3mcco35auwcstmt.onion",
+  "body": "[Error: The message is encrypted and cannot be decrypted.]"
+}
+{
+  "ts": "2021-10-25T18:10:34.116503",
+  "from": "defender@q3mcco35auwcstmt.onion",
+  "to": "driver@q3mcco35auwcstmt.onion",
+  "body": "[Error: The message is encrypted and cannot be decrypted.]"
+}
+{
+  "ts": "2021-10-25T18:10:45.338121",
+  "from": "defender@q3mcco35auwcstmt.onion",
+  "to": "driver@q3mcco35auwcstmt.onion",
+  "body": "[Error: The message is encrypted and cannot be decrypted.]"
+}
+{
+  "ts": "2021-10-25T18:12:10.960717",
+  "from": "reshaev@q3mcco35auwcstmt.onion",
+  "to": "paranoik@q3mcco35auwcstmt.onion",
+  "body": "here"
+}
+{
+  "ts": "2021-10-25T18:13:03.506966",
+  "from": "driver@q3mcco35auwcstmt.onion",
+  "to": "defender@q3mcco35auwcstmt.onion",
+  "body": "[Error: The message is encrypted and cannot be decrypted.]"
+}
+{
+  "ts": "2021-10-25T18:13:16.104893",
+  "from": "driver@q3mcco35auwcstmt.onion",
+  "to": "defender@q3mcco35auwcstmt.onion",
+  "body": "[Error: The message is encrypted and cannot be decrypted.]"
+}
+{
+  "ts": "2021-10-25T18:13:27.149692",
+  "from": "driver@q3mcco35auwcstmt.onion",
+  "to": "defender@q3mcco35auwcstmt.onion",
+  "body": "[Error: The message is encrypted and cannot be decrypted.]"
+}
+{
+  "ts": "2021-10-25T18:13:34.435859",
+  "from": "defender@q3mcco35auwcstmt.onion",
+  "to": "driver@q3mcco35auwcstmt.onion",
+  "body": "[Error: The message is encrypted and cannot be decrypted.]"
+}
+{
+  "ts": "2021-10-25T18:14:34.655314",
+  "from": "driver@q3mcco35auwcstmt.onion",
+  "to": "defender@q3mcco35auwcstmt.onion",
+  "body": "[Error: The message is encrypted and cannot be decrypted.]"
+}
+{
+  "ts": "2021-10-25T18:14:55.572533",
+  "from": "driver@q3mcco35auwcstmt.onion",
+  "to": "defender@q3mcco35auwcstmt.onion",
+  "body": "[Error: The message is encrypted and cannot be decrypted.]"
+}
+{
+  "ts": "2021-10-25T18:23:27.275651",
+  "from": "mango@q3mcco35auwcstmt.onion",
+  "to": "mozart@q3mcco35auwcstmt.onion",
+  "body": "write how you will think up a thread"
+}
+{
+  "ts": "2021-10-25T18:23:27.277845",
+  "from": "bentley@q3mcco35auwcstmt.onion",
+  "to": "mozart@q3mcco35auwcstmt.onion",
+  "body": "Ready"
+}
+{
+  "ts": "2021-10-25T18:23:27.279050",
+  "from": "bentley@q3mcco35auwcstmt.onion",
+  "to": "mozart@q3mcco35auwcstmt.onion",
+  "body": "cvsfdxgedgvbgtifdredjfgcjDweJSfY\nhttps://file.io/oiGkziAiL6hv"
+}
+{
+  "ts": "2021-10-25T18:36:07.395902",
+  "from": "specter@q3mcco35auwcstmt.onion",
+  "to": "driver@q3mcco35auwcstmt.onion",
+  "body": "[Error: The message is encrypted and cannot be decrypted.]"
+}
+{
+  "ts": "2021-10-25T18:36:38.724754",
+  "from": "driver@q3mcco35auwcstmt.onion",
+  "to": "specter@q3mcco35auwcstmt.onion",
+  "body": "[Error: The message is encrypted and cannot be decrypted.]"
+}
+{
+  "ts": "2021-10-25T18:50:29.280486",
+  "from": "bentley@q3mcco35auwcstmt.onion",
+  "to": "mozart@q3mcco35auwcstmt.onion",
+  "body": "Has it arrived?"
+}
+{
+  "ts": "2021-10-25T18:54:40.884185",
+  "from": "terry@q3mcco35auwcstmt.onion",
+  "to": "lemur@q3mcco35auwcstmt.onion",
+  "body": "Hello. for tomorrow we need a text according to the standard scheme (for 26.10)"
+}
+{
+  "ts": "2021-10-25T19:04:28.287842",
+  "from": "pin@q3mcco35auwcstmt.onion",
+  "to": "reshaev@q3mcco35auwcstmt.onion",
+  "body": "Hey"
+}
+{
+  "ts": "2021-10-25T19:04:44.839493",
+  "from": "reshaev@q3mcco35auwcstmt.onion",
+  "to": "pin@q3mcco35auwcstmt.onion",
+  "body": "Hey"
+}
+{
+  "ts": "2021-10-25T19:04:54.933032",
+  "from": "pin@q3mcco35auwcstmt.onion",
+  "to": "reshaev@q3mcco35auwcstmt.onion",
+  "body": "0YoIfDuzJevjw4DWKoAAmz00QR6Smww9VGvzMt9kbCXWbe7HdMuK6AuBEH3D11Xv"
+}
+{
+  "ts": "2021-10-25T19:04:59.662653",
+  "from": "pin@q3mcco35auwcstmt.onion",
+  "to": "reshaev@q3mcco35auwcstmt.onion",
+  "body": "whose target"
+}
+{
+  "ts": "2021-10-25T19:05:17.452787",
+  "from": "bentley@q3mcco35auwcstmt.onion",
+  "to": "bloodrush@q3mcco35auwcstmt.onion",
+  "body": "KDFjg1238gyfbhkjsdfb2kj3hfb9husdbhkjfb23kj"
+}
+{
+  "ts": "2021-10-25T19:05:21.166195",
+  "from": "bentley@q3mcco35auwcstmt.onion",
+  "to": "bloodrush@q3mcco35auwcstmt.onion",
+  "body": "https://privatlab.com/s/v/r79erbmEMbcQZaD5n2em"
+}
+{
+  "ts": "2021-10-25T19:05:45.332019",
+  "from": "reshaev@q3mcco35auwcstmt.onion",
+  "to": "pin@q3mcco35auwcstmt.onion",
+  "body": "mont@q3mcco35auwcstmt.onion"
+}
+{
+  "ts": "2021-10-25T19:06:32.657263",
+  "from": "pin@q3mcco35auwcstmt.onion",
+  "to": "reshaev@q3mcco35auwcstmt.onion",
+  "body": "250k limit"
+}
+{
+  "ts": "2021-10-25T19:07:27.321531",
+  "from": "pin@q3mcco35auwcstmt.onion",
+  "to": "reshaev@q3mcco35auwcstmt.onion",
+  "body": "I can help"
+}
+{
+  "ts": "2021-10-25T19:10:28.557388",
+  "from": "reshaev@q3mcco35auwcstmt.onion",
+  "to": "pin@q3mcco35auwcstmt.onion",
+  "body": "Write to him and decide"
+}
+{
+  "ts": "2021-10-25T19:14:47.225457",
+  "from": "bentley@q3mcco35auwcstmt.onion",
+  "to": "bloodrush@q3mcco35auwcstmt.onion",
+  "body": "KDFjg1238gyfbhkjsdfb2kj3hfb9husdbhkjfb23kj\n[22:05:20] <bentley> https://privatlab.com/s/v/r79erbmEMbcQZaD5n2em"
+}
+{
+  "ts": "2021-10-25T19:16:08.336891",
+  "from": "revers@q3mcco35auwcstmt.onion",
+  "to": "zolotoy@q3mcco35auwcstmt.onion",
+  "body": "Hey Ya"
+}
+{
+  "ts": "2021-10-25T19:24:31.305788",
+  "from": "pin@q3mcco35auwcstmt.onion",
+  "to": "reshaev@q3mcco35auwcstmt.onion",
+  "body": "don't you know he doesn't listen to me"
+}
+{
+  "ts": "2021-10-25T19:24:49.869182",
+  "from": "pin@q3mcco35auwcstmt.onion",
+  "to": "reshaev@q3mcco35auwcstmt.onion",
+  "body": "well, just if you don't need 250k then ok"
+}
+{
+  "ts": "2021-10-25T20:08:12.521243",
+  "from": "reshaev@q3mcco35auwcstmt.onion",
+  "to": "stern@q3mcco35auwcstmt.onion",
+  "body": "did you give the go-ahead to the hospital for the dollar?"
+}
+{
+  "ts": "2021-10-25T20:08:27.248869",
+  "from": "reshaev@q3mcco35auwcstmt.onion",
+  "to": "stern@q3mcco35auwcstmt.onion",
+  "body": "@dollar"
+}
+{
+  "ts": "2021-10-25T20:10:40.221216",
+  "from": "veron@q3mcco35auwcstmt.onion",
+  "to": "defender@q3mcco35auwcstmt.onion",
+  "body": "[Error: The message is encrypted and cannot be decrypted.]"
+}
+{
+  "ts": "2021-10-25T20:11:13.846467",
+  "from": "defender@q3mcco35auwcstmt.onion",
+  "to": "veron@q3mcco35auwcstmt.onion",
+  "body": "[Error: The message is encrypted and cannot be decrypted.]"
+}
+{
+  "ts": "2021-10-25T20:11:39.545776",
+  "from": "veron@q3mcco35auwcstmt.onion",
+  "to": "defender@q3mcco35auwcstmt.onion",
+  "body": "[Error: The message is encrypted and cannot be decrypted.]"
+}
+{
+  "ts": "2021-10-25T20:12:19.423384",
+  "from": "ponetre@q3mcco35auwcstmt.onion",
+  "to": "admin@q3mcco35auwcstmt.onion",
+  "body": "Hey"
+}
+{
+  "ts": "2021-10-25T21:25:35.979359",
+  "from": "ford@q3mcco35auwcstmt.onion",
+  "to": "freebeer@q3mcco35auwcstmt.onion",
+  "body": "Hey"
+}
+{
+  "ts": "2021-10-25T21:36:01.351711",
+  "from": "veron@q3mcco35auwcstmt.onion",
+  "to": "defender@q3mcco35auwcstmt.onion",
+  "body": "[Error: The message is encrypted and cannot be decrypted.]"
+}
+{
+  "ts": "2021-10-25T21:36:27.889871",
+  "from": "defender@q3mcco35auwcstmt.onion",
+  "to": "veron@q3mcco35auwcstmt.onion",
+  "body": "[Error: The message is encrypted and cannot be decrypted.]"
+}
+{
+  "ts": "2021-10-25T21:38:19.317958",
+  "from": "veron@q3mcco35auwcstmt.onion",
+  "to": "defender@q3mcco35auwcstmt.onion",
+  "body": "[Error: The message is encrypted and cannot be decrypted.]"
+}
+{
+  "ts": "2021-10-25T21:39:22.862150",
+  "from": "defender@q3mcco35auwcstmt.onion",
+  "to": "veron@q3mcco35auwcstmt.onion",
+  "body": "[Error: The message is encrypted and cannot be decrypted.]"
+}
+{
+  "ts": "2021-10-25T21:39:39.663325",
+  "from": "veron@q3mcco35auwcstmt.onion",
+  "to": "defender@q3mcco35auwcstmt.onion",
+  "body": "[Error: The message is encrypted and cannot be decrypted.]"
+}
+{
+  "ts": "2021-10-25T21:41:03.597697",
+  "from": "defender@q3mcco35auwcstmt.onion",
+  "to": "veron@q3mcco35auwcstmt.onion",
+  "body": "[Error: The message is encrypted and cannot be decrypted.]"
+}
+{
+  "ts": "2021-10-25T21:41:11.686481",
+  "from": "veron@q3mcco35auwcstmt.onion",
+  "to": "defender@q3mcco35auwcstmt.onion",
+  "body": "[Error: The message is encrypted and cannot be decrypted.]"
+}
+{
+  "ts": "2021-10-25T21:41:41.505369",
+  "from": "defender@q3mcco35auwcstmt.onion",
+  "to": "veron@q3mcco35auwcstmt.onion",
+  "body": "[Error: The message is encrypted and cannot be decrypted.]"
+}
+{
+  "ts": "2021-10-25T21:42:01.964697",
+  "from": "veron@q3mcco35auwcstmt.onion",
+  "to": "defender@q3mcco35auwcstmt.onion",
+  "body": "[Error: The message is encrypted and cannot be decrypted.]"
+}
+{
+  "ts": "2021-10-25T21:42:24.344262",
+  "from": "defender@q3mcco35auwcstmt.onion",
+  "to": "veron@q3mcco35auwcstmt.onion",
+  "body": "[Error: The message is encrypted and cannot be decrypted.]"
+}
+{
+  "ts": "2021-10-25T21:43:55.308996",
+  "from": "veron@q3mcco35auwcstmt.onion",
+  "to": "defender@q3mcco35auwcstmt.onion",
+  "body": "[Error: The message is encrypted and cannot be decrypted.]"
+}
+{
+  "ts": "2021-10-25T23:48:41.579995",
+  "from": "bentley@q3mcco35auwcstmt.onion",
+  "to": "bloodrush@q3mcco35auwcstmt.onion",
+  "body": "well I'll throw off"
+}
+{
+  "ts": "2021-10-25T23:48:41.581020",
+  "from": "bentley@q3mcco35auwcstmt.onion",
+  "to": "bloodrush@q3mcco35auwcstmt.onion",
+  "body": "KDFjg1238gyfbhkjsdfb2kj3hfb9husdbhkjfb23kj"
+}
+{
+  "ts": "2021-10-25T23:48:41.581828",
+  "from": "bentley@q3mcco35auwcstmt.onion",
+  "to": "bloodrush@q3mcco35auwcstmt.onion",
+  "body": "https://privatlab.com/s/v/r79erbmEMbcQZaD5n2em"
+}
+{
+  "ts": "2021-10-25T23:48:41.583165",
+  "from": "bentley@q3mcco35auwcstmt.onion",
+  "to": "bloodrush@q3mcco35auwcstmt.onion",
+  "body": "KDFjg1238gyfbhkjsdfb2kj3hfb9husdbhkjfb23kj\n[22:05:20] <bentley> https://privatlab.com/s/v/r79erbmEMbcQZaD5n2em"
+}
+{
+  "ts": "2021-10-25T23:50:42.487143",
+  "from": "bloodrush@q3mcco35auwcstmt.onion",
+  "to": "bentley@q3mcco35auwcstmt.onion",
+  "body": "yeah"
+}
+{
+  "ts": "2021-10-25T23:50:44.254636",
+  "from": "bloodrush@q3mcco35auwcstmt.onion",
+  "to": "bentley@q3mcco35auwcstmt.onion",
+  "body": "THX"
+}
+{
+  "ts": "2021-10-25T23:50:44.721656",
+  "from": "bloodrush@q3mcco35auwcstmt.onion",
+  "to": "bentley@q3mcco35auwcstmt.onion",
+  "body": "and what's in there"
+}
+{
+  "ts": "2021-10-25T23:50:45.924938",
+  "from": "bloodrush@q3mcco35auwcstmt.onion",
+  "to": "bentley@q3mcco35auwcstmt.onion",
+  "body": "from"
+}
+{
+  "ts": "2021-10-25T23:50:53.774397",
+  "from": "bloodrush@q3mcco35auwcstmt.onion",
+  "to": "bentley@q3mcco35auwcstmt.onion",
+  "body": "crunch"
+}
+{
+  "ts": "2021-10-25T23:50:53.775646",
+  "from": "bloodrush@q3mcco35auwcstmt.onion",
+  "to": "bentley@q3mcco35auwcstmt.onion",
+  "body": "base"
+}
