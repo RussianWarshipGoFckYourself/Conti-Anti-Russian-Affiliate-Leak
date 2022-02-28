@@ -1,0 +1,1068 @@
+{
+  "ts": "2021-06-11T07:03:36.101991",
+  "from": "mango@q3mcco35auwcstmt.onion",
+  "to": "professor@q3mcco35auwcstmt.onion",
+  "body": "Good afternoon. There is a 0-day privilege escalation exploit for a Use-after-Free vulnerability in the WIDFRD.sys driver. The exploit was implemented for Windows 10 x64 1607, 1703, 1709, 1803, 1809, 1903, 1909. The vulnerability exists in 2004 and later, but the corresponding code in the driver was rewritten, and the OS crashes into a BSOD before the target null pointer dereference vulnerability is triggered . There are some nuances in operation: not all systems may be vulnerable, as there is a dependence on the hardware configuration. Operation occurs by disabling SMEP (modification CR4), modifying PTE/PML4 if necessary, and executing the code that replaces the token for the target process with the system one. I am publishing an ad here, because my regular customers do not need / did not fit, and in a personal message from those who expressed a desire to buy on the forum, no one answers. Price - 60k, negotiable. For those who wish, I can write and issue a utility that, when launched on the system of interest, will tell whether the OS is vulnerable or not. The first contact in the LAN, then in the jabber.\n\n\nI will add:\n\nThe exploit is sold in one hand.\n\nVideo of work:\n\nhttps://filetransfer.io/data-package/ctyCDTW6#link\n\nPassword bvdiviy2861rVJVl\n\n \n\nWhat's happening in the video:\n\n1. The wud.exe process that exploits the vulnerability is launched.\n\n2. wud.exe spawns a cmd.exe process and pauses for 5 seconds to check privileges.\n\n3. I launch notepad.exe from the created console (instance 1).\n\n4. After some time, I check the privileges and run notepad.exe (instance 2).\n\n5. In Process Explorer, I check the cmd.exe level and alternately 2 instances of notepad.exe. It can be seen that instance 1 is launched with medium IL, the second (when the rights of cmd.exe have already been elevated) with SYSTEM."
+}
+{
+  "ts": "2021-06-11T07:26:26.552137",
+  "from": "hash@q3mcco35auwcstmt.onion",
+  "to": "stern@q3mcco35auwcstmt.onion",
+  "body": "In general, not everything is so bad. Bots are coming, Hors took 4 nets yesterday :)"
+}
+{
+  "ts": "2021-06-11T07:30:36.128764",
+  "from": "bentley@q3mcco35auwcstmt.onion",
+  "to": "merch@q3mcco35auwcstmt.onion",
+  "body": "Good morning. I'm waiting for the files on the crypt"
+}
+{
+  "ts": "2021-06-11T07:42:30.084832",
+  "from": "bentley@q3mcco35auwcstmt.onion",
+  "to": "hash@q3mcco35auwcstmt.onion",
+  "body": "Good morning. Are we making an echel?"
+}
+{
+  "ts": "2021-06-11T07:42:50.289026",
+  "from": "bentley@q3mcco35auwcstmt.onion",
+  "to": "netwalker@q3mcco35auwcstmt.onion",
+  "body": "Good morning bro. Doing a mechel today?"
+}
+{
+  "ts": "2021-06-11T08:44:50.704351",
+  "from": "mango@q3mcco35auwcstmt.onion",
+  "to": "stern@q3mcco35auwcstmt.onion",
+  "body": "Since the FBI is so actively banning us from paying and advertising it through all possible channels, can they release some kind of response? supposedly give some kind of interview, where to get lost and describe the situation, tell what they say is so and so, but if the terpils turn to the FBI, they will definitely say goodbye to their files and it\u2019s not good for them themselves .. to carry out propaganda work, so to speak .. what do you think about about this?"
+}
+{
+  "ts": "2021-06-11T08:44:50.705829",
+  "from": "mango@q3mcco35auwcstmt.onion",
+  "to": "stern@q3mcco35auwcstmt.onion",
+  "body": "there will be an overkill right?))"
+}
+{
+  "ts": "2021-06-11T08:44:50.711438",
+  "from": "defender@q3mcco35auwcstmt.onion",
+  "to": "stern@q3mcco35auwcstmt.onion",
+  "body": "gave access to the sat* group to the dnog admin panel, dropped love for hash, acc rrrrrop"
+}
+{
+  "ts": "2021-06-11T08:44:50.720604",
+  "from": "hash@q3mcco35auwcstmt.onion",
+  "to": "stern@q3mcco35auwcstmt.onion",
+  "body": "In general, not everything is so bad. Bots are coming, Hors took 4 nets yesterday :)"
+}
+{
+  "ts": "2021-06-11T08:52:15.402716",
+  "from": "stern@q3mcco35auwcstmt.onion",
+  "to": "defender@q3mcco35auwcstmt.onion",
+  "body": "meatball"
+}
+{
+  "ts": "2021-06-11T08:52:17.396709",
+  "from": "stern@q3mcco35auwcstmt.onion",
+  "to": "defender@q3mcco35auwcstmt.onion",
+  "body": "who is this?"
+}
+{
+  "ts": "2021-06-11T09:08:53.284723",
+  "from": "buza@q3mcco35auwcstmt.onion",
+  "to": "derek@q3mcco35auwcstmt.onion",
+  "body": "ku"
+}
+{
+  "ts": "2021-06-11T09:09:22.106046",
+  "from": "buza@q3mcco35auwcstmt.onion",
+  "to": "grant@q3mcco35auwcstmt.onion",
+  "body": "ku"
+}
+{
+  "ts": "2021-06-11T09:16:25.669367",
+  "from": "stern@q3mcco35auwcstmt.onion",
+  "to": "modar@q3mcco35auwcstmt.onion",
+  "body": "Who has ideas on blockchain? and cryptocurrencies, where to go and what to develop. Who considers himself a guru in crypto trends?"
+}
+{
+  "ts": "2021-06-11T09:22:22.159278",
+  "from": "mango@q3mcco35auwcstmt.onion",
+  "to": "stern@q3mcco35auwcstmt.onion",
+  "body": "got it"
+}
+{
+  "ts": "2021-06-11T09:23:06.981290",
+  "from": "mango@q3mcco35auwcstmt.onion",
+  "to": "stern@q3mcco35auwcstmt.onion",
+  "body": "I need money .. for a lawyer and salary to give Dana in advance, I gave half, there are no more cue balls and he goes on vacation ..."
+}
+{
+  "ts": "2021-06-11T09:39:31.599823",
+  "from": "ramon@q3mcco35auwcstmt.onion",
+  "to": "many@q3mcco35auwcstmt.onion",
+  "body": "hi"
+}
+{
+  "ts": "2021-06-11T09:39:32.805116",
+  "from": "ramon@q3mcco35auwcstmt.onion",
+  "to": "many@q3mcco35auwcstmt.onion",
+  "body": "man"
+}
+{
+  "ts": "2021-06-11T09:42:12.288417",
+  "from": "tiktak@q3mcco35auwcstmt.onion",
+  "to": "love@q3mcco35auwcstmt.onion",
+  "body": "Hey"
+}
+{
+  "ts": "2021-06-11T09:44:28.319400",
+  "from": "mango@q3mcco35auwcstmt.onion",
+  "to": "stern@q3mcco35auwcstmt.onion",
+  "body": "even two go on vacation .. they ask to pay in advance"
+}
+{
+  "ts": "2021-06-11T10:13:03.986078",
+  "from": "buza@q3mcco35auwcstmt.onion",
+  "to": "stern@q3mcco35auwcstmt.onion",
+  "body": "ku"
+}
+{
+  "ts": "2021-06-11T10:17:11.234306",
+  "from": "axel@q3mcco35auwcstmt.onion",
+  "to": "fox@q3mcco35auwcstmt.onion",
+  "body": "8 vps"
+}
+{
+  "ts": "2021-06-11T10:17:23.873509",
+  "from": "fox@q3mcco35auwcstmt.onion",
+  "to": "axel@q3mcco35auwcstmt.onion",
+  "body": "+"
+}
+{
+  "ts": "2021-06-11T10:35:05.056754",
+  "from": "buza@q3mcco35auwcstmt.onion",
+  "to": "derek@q3mcco35auwcstmt.onion",
+  "body": "ku"
+}
+{
+  "ts": "2021-06-11T10:35:46.388560",
+  "from": "derek@q3mcco35auwcstmt.onion",
+  "to": "buza@q3mcco35auwcstmt.onion",
+  "body": "hi bro"
+}
+{
+  "ts": "2021-06-11T10:58:53.187599",
+  "from": "steve@q3mcco35auwcstmt.onion",
+  "to": "tiktak@q3mcco35auwcstmt.onion",
+  "body": "hai"
+}
+{
+  "ts": "2021-06-11T11:27:18.691756",
+  "from": "mango@q3mcco35auwcstmt.onion",
+  "to": "professor@q3mcco35auwcstmt.onion",
+  "body": "Good afternoon. There is a 0-day privilege escalation exploit for a Use-after-Free vulnerability in the WIDFRD.sys driver. The exploit was implemented for Windows 10 x64 1607, 1703, 1709, 1803, 1809, 1903, 1909. The vulnerability exists in 2004 and later, but the corresponding code in the driver was rewritten, and the OS crashes into a BSOD before the target null pointer dereference vulnerability is triggered . There are some nuances in operation: not all systems may be vulnerable, as there is a dependence on the hardware configuration. Operation occurs by disabling SMEP (modification CR4), modifying PTE / PML4 if necessary, and executing code that replaces the token for the target process with the system one. I am publishing an ad here, because my regular customers do not need / did not fit, and in a personal message from those who expressed a desire to buy on the forum, no one answers. Price - 60k, negotiable. For those who wish, I can write and issue a utility that, when launched on the system of interest, will tell whether the OS is vulnerable or not. The first contact in the LAN, then in the jabber.\n\n\nI will add:\n\nThe exploit is sold in one hand.\n\nVideo of work:\n\nhttps://filetransfer.io/data-package/ctyCDTW6#link\n\nPassword bvdiviy2861rVJVl\n\n \n\nWhat's happening in the video:\n\n1. The wud.exe process that exploits the vulnerability is launched.\n\n2. wud.exe spawns a cmd.exe process and pauses for 5 seconds to check privileges.\n\n3. I launch notepad.exe from the created console (instance 1).\n\n4. After some time, I check the privileges and run notepad.exe (instance 2).\n\n5. In Process Explorer, I check the cmd.exe level and alternately 2 instances of notepad.exe. It can be seen that instance 1 is launched with medium IL, the second (when the rights of cmd.exe have already been elevated) with SYSTEM."
+}
+{
+  "ts": "2021-06-11T11:28:19.172409",
+  "from": "defender@q3mcco35auwcstmt.onion",
+  "to": "stern@q3mcco35auwcstmt.onion",
+  "body": "hello viper guy"
+}
+{
+  "ts": "2021-06-11T12:04:21.365176",
+  "from": "lemur@q3mcco35auwcstmt.onion",
+  "to": "terry@q3mcco35auwcstmt.onion",
+  "body": "Subject: {Outstanding debt|Debt|Debt obligations} {message|notification|notice|reminder} REMINDER NUMBER\n\n{Greetings|Hello|Good afternoon|Hi|Good day|Greeting|Good morning|Good evening}!\n{We have|We've|We have just|Our managers has|Our financial department has} {discovered|noticed} that you {have not paid|haven't paid|missed the payment|haven't done the payment} for AMOUNT for {one of our invoices|our invoice|our last invoice} \u2116 INVOICE NUMBER. Tomorrow is the last {due date|day you can pay}. Please {process|send|make} the {payment|deposit|settlement} {as soon as possible|asap|as soon as you can}, {otherwise|or|in any other case} {we will|we'll} { be forced to suspend|be forced to break|be forced to cancel|cancel|suspend} our {contract|agreement}. {In case|If} you {haven't|have not} {received|got} the invoice, I attach it to this {letter|message}.\n\nATTACHES:\ndbt_notif\ndebt_notif\ninv_to_pay\nunpaid_inv\ndebted_inv\n\n******\n\nSubject: {Obligations|Debt} {legal|official|legal action} case CASE NUMBER {prepared|formed|generated}\n\n{Hello|Greetings|Good day to you|Good afternoon}!\n{You have received|You have got|You received|You've received|We sent you|We are directing you} this {letter|e-mail|msg|message|notification|notice}, {because you|since you| due to the fact you} {have not|still haven't|haven't|haven't yet|still have not|have not yet} {sent|paid} us {required|necessary|expected|mandatory} {payment| deposit|deposit payment} for AMOUNT {according to the|in accordance with the|as documented by the} invoice INVOICE NUMBER. {Please|You should|Could you please} {reply|answer|respond|contact} us and {send|provide} {necessary|required} {payment|deposit}, {or|otherwise} {we will|we'll| our company will} be forced to {start|begin} {the case|the legal case}. {In case|If} you {haven't|have not} {received|got} the invoice, I attach it to this {letter|message}.\n\nATTACHES:\npaym_remind\npayment_notif\ncompens_req\ndebt_notification\nunpaid_invoice\n\n******\n\nSubject: {Invoice|Given invoice} INVOICE NUMBER to {pay|compensate}\n\n{Hello|Good day|Good afternoon|Greetings},\n{Please|Kindly|Could you please|You need to} {immediately|urgently} {pay for the|compensate the} {given invoice|invoice} for the {order|purchase order} ORDER NUMBER. {I have|I've} tried to {contact|get in touch with} you {two days ago|yesterday}, but {got|received} no {answer|respond|reaction}.\n{We need to|We have to|We must|We should} {proceed|move forward|go ahead} {ASAP|as soon as possible|as soon as you can|at the soonest time}. All {needed|avovementioned|required} {documentation|paperwork} is attached to this {letter|e-mail|message}.\n\nATTACHES:\npaym_papers\npayment_reminder\noffic_notif\nnotification_paym\ninvoice_dupl"
+}
+{
+  "ts": "2021-06-11T12:04:25.085574",
+  "from": "lemur@q3mcco35auwcstmt.onion",
+  "to": "terry@q3mcco35auwcstmt.onion",
+  "body": "Hey)"
+}
+{
+  "ts": "2021-06-11T12:04:29.261118",
+  "from": "terry@q3mcco35auwcstmt.onion",
+  "to": "lemur@q3mcco35auwcstmt.onion",
+  "body": "Hey"
+}
+{
+  "ts": "2021-06-11T12:04:29.636527",
+  "from": "terry@q3mcco35auwcstmt.onion",
+  "to": "lemur@q3mcco35auwcstmt.onion",
+  "body": "+"
+}
+{
+  "ts": "2021-06-11T14:14:29.506188",
+  "from": "many@q3mcco35auwcstmt.onion",
+  "to": "netwalker@q3mcco35auwcstmt.onion",
+  "body": "hi have 150 ? i will give it on monday"
+}
+{
+  "ts": "2021-06-11T14:14:42.086413",
+  "from": "many@q3mcco35auwcstmt.onion",
+  "to": "steve@q3mcco35auwcstmt.onion",
+  "body": "hi have 250 ? i will give it on monday"
+}
+{
+  "ts": "2021-06-11T14:14:52.475301",
+  "from": "many@q3mcco35auwcstmt.onion",
+  "to": "steve@q3mcco35auwcstmt.onion",
+  "body": "or crypto dll coba"
+}
+{
+  "ts": "2021-06-11T14:15:00.392574",
+  "from": "many@q3mcco35auwcstmt.onion",
+  "to": "zolotoy@q3mcco35auwcstmt.onion",
+  "body": "hi have 150 ? i will give it on monday"
+}
+{
+  "ts": "2021-06-11T14:15:19.609517",
+  "from": "many@q3mcco35auwcstmt.onion",
+  "to": "merch@q3mcco35auwcstmt.onion",
+  "body": "hi have 150 ? i will give it on monday"
+}
+{
+  "ts": "2021-06-11T14:25:38.998649",
+  "from": "pin@q3mcco35auwcstmt.onion",
+  "to": "professor@q3mcco35auwcstmt.onion",
+  "body": "Hey"
+}
+{
+  "ts": "2021-06-11T15:23:17.438420",
+  "from": "ramon@q3mcco35auwcstmt.onion",
+  "to": "stern@q3mcco35auwcstmt.onion",
+  "body": "hey"
+}
+{
+  "ts": "2021-06-11T15:23:17.959292",
+  "from": "ramon@q3mcco35auwcstmt.onion",
+  "to": "stern@q3mcco35auwcstmt.onion",
+  "body": "yo"
+}
+{
+  "ts": "2021-06-11T15:23:23.594702",
+  "from": "ramon@q3mcco35auwcstmt.onion",
+  "to": "stern@q3mcco35auwcstmt.onion",
+  "body": "https://privnote.com/twjwWUBh#KsXTHafUU"
+}
+{
+  "ts": "2021-06-11T15:23:23.593757",
+  "from": "ramon@q3mcco35auwcstmt.onion",
+  "to": "stern@q3mcco35auwcstmt.onion",
+  "body": "bro eshe nado.."
+}
+{
+  "ts": "2021-06-11T15:23:30.901641",
+  "from": "ramon@q3mcco35auwcstmt.onion",
+  "to": "stern@q3mcco35auwcstmt.onion",
+  "body": "polucasetcay dolg 3 yje bydet"
+}
+{
+  "ts": "2021-06-11T17:11:07.200869",
+  "from": "mango@q3mcco35auwcstmt.onion",
+  "to": "stern@q3mcco35auwcstmt.onion",
+  "body": "got it"
+}
+{
+  "ts": "2021-06-11T17:11:07.203130",
+  "from": "mango@q3mcco35auwcstmt.onion",
+  "to": "stern@q3mcco35auwcstmt.onion",
+  "body": "I need money .. for a lawyer and salary to give Dana in advance, I gave half, there are no more cue balls and he goes on vacation ..."
+}
+{
+  "ts": "2021-06-11T17:11:07.204308",
+  "from": "mango@q3mcco35auwcstmt.onion",
+  "to": "stern@q3mcco35auwcstmt.onion",
+  "body": "even two go on vacation .. they ask to pay in advance"
+}
+{
+  "ts": "2021-06-11T17:11:07.207200",
+  "from": "buza@q3mcco35auwcstmt.onion",
+  "to": "stern@q3mcco35auwcstmt.onion",
+  "body": "ku"
+}
+{
+  "ts": "2021-06-11T17:11:07.208062",
+  "from": "defender@q3mcco35auwcstmt.onion",
+  "to": "stern@q3mcco35auwcstmt.onion",
+  "body": "hello viper guy"
+}
+{
+  "ts": "2021-06-11T17:11:07.214420",
+  "from": "ramon@q3mcco35auwcstmt.onion",
+  "to": "stern@q3mcco35auwcstmt.onion",
+  "body": "hey"
+}
+{
+  "ts": "2021-06-11T17:11:07.215222",
+  "from": "ramon@q3mcco35auwcstmt.onion",
+  "to": "stern@q3mcco35auwcstmt.onion",
+  "body": "yo"
+}
+{
+  "ts": "2021-06-11T17:11:07.216508",
+  "from": "ramon@q3mcco35auwcstmt.onion",
+  "to": "stern@q3mcco35auwcstmt.onion",
+  "body": "bro eshe nado.."
+}
+{
+  "ts": "2021-06-11T17:11:07.217141",
+  "from": "ramon@q3mcco35auwcstmt.onion",
+  "to": "stern@q3mcco35auwcstmt.onion",
+  "body": "https://privnote.com/twjwWUBh#KsXTHafUU"
+}
+{
+  "ts": "2021-06-11T17:11:07.219672",
+  "from": "ramon@q3mcco35auwcstmt.onion",
+  "to": "stern@q3mcco35auwcstmt.onion",
+  "body": "polucasetcay dolg 3 yje bydet"
+}
+{
+  "ts": "2021-06-11T17:12:31.497050",
+  "from": "stern@q3mcco35auwcstmt.onion",
+  "to": "buza@q3mcco35auwcstmt.onion",
+  "body": "ku"
+}
+{
+  "ts": "2021-06-11T17:32:23.619998",
+  "from": "boby@q3mcco35auwcstmt.onion",
+  "to": "hors@q3mcco35auwcstmt.onion",
+  "body": "da da"
+}
+{
+  "ts": "2021-06-11T17:32:23.622678",
+  "from": "boby@q3mcco35auwcstmt.onion",
+  "to": "hors@q3mcco35auwcstmt.onion",
+  "body": "otletel"
+}
+{
+  "ts": "2021-06-11T17:49:05.367649",
+  "from": "defender@q3mcco35auwcstmt.onion",
+  "to": "driver@q3mcco35auwcstmt.onion",
+  "body": "[Error: The message is encrypted and cannot be decrypted.]"
+}
+{
+  "ts": "2021-06-11T17:49:13.956328",
+  "from": "defender@q3mcco35auwcstmt.onion",
+  "to": "driver@q3mcco35auwcstmt.onion",
+  "body": "[Error: The message is encrypted and cannot be decrypted.]"
+}
+{
+  "ts": "2021-06-11T17:50:06.989901",
+  "from": "driver@q3mcco35auwcstmt.onion",
+  "to": "defender@q3mcco35auwcstmt.onion",
+  "body": "[Error: The message is encrypted and cannot be decrypted.]"
+}
+{
+  "ts": "2021-06-11T17:50:52.362124",
+  "from": "driver@q3mcco35auwcstmt.onion",
+  "to": "defender@q3mcco35auwcstmt.onion",
+  "body": "[Error: The message is encrypted and cannot be decrypted.]"
+}
+{
+  "ts": "2021-06-11T18:01:15.677682",
+  "from": "meatball@q3mcco35auwcstmt.onion",
+  "to": "revers@q3mcco35auwcstmt.onion",
+  "body": "Hi"
+}
+{
+  "ts": "2021-06-11T18:06:34.689332",
+  "from": "revers@q3mcco35auwcstmt.onion",
+  "to": "meatball@q3mcco35auwcstmt.onion",
+  "body": "Hey"
+}
+{
+  "ts": "2021-06-11T18:14:22.640649",
+  "from": "meatball@q3mcco35auwcstmt.onion",
+  "to": "revers@q3mcco35auwcstmt.onion",
+  "body": "Are you in Russia?"
+}
+{
+  "ts": "2021-06-11T18:14:39.241666",
+  "from": "revers@q3mcco35auwcstmt.onion",
+  "to": "meatball@q3mcco35auwcstmt.onion",
+  "body": "what kind of questions?"
+}
+{
+  "ts": "2021-06-11T18:15:03.936692",
+  "from": "meatball@q3mcco35auwcstmt.onion",
+  "to": "revers@q3mcco35auwcstmt.onion",
+  "body": "What should be done here?"
+}
+{
+  "ts": "2021-06-11T18:15:25.340712",
+  "from": "revers@q3mcco35auwcstmt.onion",
+  "to": "meatball@q3mcco35auwcstmt.onion",
+  "body": "I think to earn"
+}
+{
+  "ts": "2021-06-11T18:15:42.824699",
+  "from": "meatball@q3mcco35auwcstmt.onion",
+  "to": "revers@q3mcco35auwcstmt.onion",
+  "body": "How to start earning?"
+}
+{
+  "ts": "2021-06-11T18:15:53.000847",
+  "from": "revers@q3mcco35auwcstmt.onion",
+  "to": "meatball@q3mcco35auwcstmt.onion",
+  "body": "who sent you to me?"
+}
+{
+  "ts": "2021-06-11T18:16:03.051409",
+  "from": "meatball@q3mcco35auwcstmt.onion",
+  "to": "revers@q3mcco35auwcstmt.onion",
+  "body": "You yourself."
+}
+{
+  "ts": "2021-06-11T18:16:10.326899",
+  "from": "revers@q3mcco35auwcstmt.onion",
+  "to": "meatball@q3mcco35auwcstmt.onion",
+  "body": ":D"
+}
+{
+  "ts": "2021-06-11T18:16:18.782589",
+  "from": "defender@q3mcco35auwcstmt.onion",
+  "to": "driver@q3mcco35auwcstmt.onion",
+  "body": "[Error: The message is encrypted and cannot be decrypted.]"
+}
+{
+  "ts": "2021-06-11T18:16:19.916215",
+  "from": "meatball@q3mcco35auwcstmt.onion",
+  "to": "revers@q3mcco35auwcstmt.onion",
+  "body": "There are three people in the chat, not counting me."
+}
+{
+  "ts": "2021-06-11T18:17:19.981450",
+  "from": "driver@q3mcco35auwcstmt.onion",
+  "to": "defender@q3mcco35auwcstmt.onion",
+  "body": "[Error: The message is encrypted and cannot be decrypted.]"
+}
+{
+  "ts": "2021-06-11T18:17:20.433869",
+  "from": "revers@q3mcco35auwcstmt.onion",
+  "to": "meatball@q3mcco35auwcstmt.onion",
+  "body": "the nickname you interviewed tell me"
+}
+{
+  "ts": "2021-06-11T18:17:37.080080",
+  "from": "revers@q3mcco35auwcstmt.onion",
+  "to": "meatball@q3mcco35auwcstmt.onion",
+  "body": "I will guide you further"
+}
+{
+  "ts": "2021-06-11T18:17:43.353202",
+  "from": "revers@q3mcco35auwcstmt.onion",
+  "to": "meatball@q3mcco35auwcstmt.onion",
+  "body": "to a new chat"
+}
+{
+  "ts": "2021-06-11T18:17:46.937947",
+  "from": "meatball@q3mcco35auwcstmt.onion",
+  "to": "revers@q3mcco35auwcstmt.onion",
+  "body": "firefox333"
+}
+{
+  "ts": "2021-06-11T18:17:47.617568",
+  "from": "defender@q3mcco35auwcstmt.onion",
+  "to": "driver@q3mcco35auwcstmt.onion",
+  "body": "[Error: The message is encrypted and cannot be decrypted.]"
+}
+{
+  "ts": "2021-06-11T18:17:58.116816",
+  "from": "revers@q3mcco35auwcstmt.onion",
+  "to": "meatball@q3mcco35auwcstmt.onion",
+  "body": "this is the nickname of the person who interviewed you"
+}
+{
+  "ts": "2021-06-11T18:18:19.980049",
+  "from": "driver@q3mcco35auwcstmt.onion",
+  "to": "defender@q3mcco35auwcstmt.onion",
+  "body": "[Error: The message is encrypted and cannot be decrypted.]"
+}
+{
+  "ts": "2021-06-11T18:18:21.244301",
+  "from": "meatball@q3mcco35auwcstmt.onion",
+  "to": "revers@q3mcco35auwcstmt.onion",
+  "body": "Yes"
+}
+{
+  "ts": "2021-06-11T18:18:33.822490",
+  "from": "revers@q3mcco35auwcstmt.onion",
+  "to": "meatball@q3mcco35auwcstmt.onion",
+  "body": "under what nickname did you write to him?"
+}
+{
+  "ts": "2021-06-11T18:18:52.605312",
+  "from": "meatball@q3mcco35auwcstmt.onion",
+  "to": "revers@q3mcco35auwcstmt.onion",
+  "body": "never say"
+}
+{
+  "ts": "2021-06-11T18:19:03.234287",
+  "from": "driver@q3mcco35auwcstmt.onion",
+  "to": "defender@q3mcco35auwcstmt.onion",
+  "body": "[Error: The message is encrypted and cannot be decrypted.]"
+}
+{
+  "ts": "2021-06-11T18:19:07.749868",
+  "from": "driver@q3mcco35auwcstmt.onion",
+  "to": "defender@q3mcco35auwcstmt.onion",
+  "body": "[Error: The message is encrypted and cannot be decrypted.]"
+}
+{
+  "ts": "2021-06-11T18:19:16.711030",
+  "from": "revers@q3mcco35auwcstmt.onion",
+  "to": "meatball@q3mcco35auwcstmt.onion",
+  "body": "OK"
+}
+{
+  "ts": "2021-06-11T18:19:30.333561",
+  "from": "revers@q3mcco35auwcstmt.onion",
+  "to": "meatball@q3mcco35auwcstmt.onion",
+  "body": "I will make an account for you on Monday and introduce you to the manager"
+}
+{
+  "ts": "2021-06-11T18:19:43.499697",
+  "from": "driver@q3mcco35auwcstmt.onion",
+  "to": "defender@q3mcco35auwcstmt.onion",
+  "body": "[Error: The message is encrypted and cannot be decrypted.]"
+}
+{
+  "ts": "2021-06-11T18:19:57.822557",
+  "from": "meatball@q3mcco35auwcstmt.onion",
+  "to": "revers@q3mcco35auwcstmt.onion",
+  "body": "I was told you are the leader"
+}
+{
+  "ts": "2021-06-11T18:20:08.271805",
+  "from": "defender@q3mcco35auwcstmt.onion",
+  "to": "driver@q3mcco35auwcstmt.onion",
+  "body": "[Error: The message is encrypted and cannot be decrypted.]"
+}
+{
+  "ts": "2021-06-11T18:20:09.659136",
+  "from": "revers@q3mcco35auwcstmt.onion",
+  "to": "meatball@q3mcco35auwcstmt.onion",
+  "body": "there are middle managers"
+}
+{
+  "ts": "2021-06-11T18:20:13.454483",
+  "from": "meatball@q3mcco35auwcstmt.onion",
+  "to": "revers@q3mcco35auwcstmt.onion",
+  "body": "stern who?"
+}
+{
+  "ts": "2021-06-11T18:20:23.384439",
+  "from": "revers@q3mcco35auwcstmt.onion",
+  "to": "meatball@q3mcco35auwcstmt.onion",
+  "body": "stern is big boss"
+}
+{
+  "ts": "2021-06-11T18:20:39.993949",
+  "from": "meatball@q3mcco35auwcstmt.onion",
+  "to": "revers@q3mcco35auwcstmt.onion",
+  "body": "viper&"
+}
+{
+  "ts": "2021-06-11T18:20:45.844550",
+  "from": "revers@q3mcco35auwcstmt.onion",
+  "to": "meatball@q3mcco35auwcstmt.onion",
+  "body": "recruiter"
+}
+{
+  "ts": "2021-06-11T18:20:46.927524",
+  "from": "driver@q3mcco35auwcstmt.onion",
+  "to": "defender@q3mcco35auwcstmt.onion",
+  "body": "[Error: The message is encrypted and cannot be decrypted.]"
+}
+{
+  "ts": "2021-06-11T18:20:49.094094",
+  "from": "revers@q3mcco35auwcstmt.onion",
+  "to": "meatball@q3mcco35auwcstmt.onion",
+  "body": "who found you"
+}
+{
+  "ts": "2021-06-11T18:20:53.315990",
+  "from": "meatball@q3mcco35auwcstmt.onion",
+  "to": "revers@q3mcco35auwcstmt.onion",
+  "body": "you"
+}
+{
+  "ts": "2021-06-11T18:21:01.798847",
+  "from": "revers@q3mcco35auwcstmt.onion",
+  "to": "meatball@q3mcco35auwcstmt.onion",
+  "body": "team leader"
+}
+{
+  "ts": "2021-06-11T18:21:08.058830",
+  "from": "revers@q3mcco35auwcstmt.onion",
+  "to": "meatball@q3mcco35auwcstmt.onion",
+  "body": "where did you come to work"
+}
+{
+  "ts": "2021-06-11T18:21:21.990217",
+  "from": "meatball@q3mcco35auwcstmt.onion",
+  "to": "revers@q3mcco35auwcstmt.onion",
+  "body": "how many people in the group nominally"
+}
+{
+  "ts": "2021-06-11T18:21:23.348065",
+  "from": "revers@q3mcco35auwcstmt.onion",
+  "to": "meatball@q3mcco35auwcstmt.onion",
+  "body": "but the group is so big that there are still middle managers"
+}
+{
+  "ts": "2021-06-11T18:21:33.147169",
+  "from": "revers@q3mcco35auwcstmt.onion",
+  "to": "meatball@q3mcco35auwcstmt.onion",
+  "body": "what kind of questions?"
+}
+{
+  "ts": "2021-06-11T18:21:48.860377",
+  "from": "revers@q3mcco35auwcstmt.onion",
+  "to": "meatball@q3mcco35auwcstmt.onion",
+  "body": "where will you work?"
+}
+{
+  "ts": "2021-06-11T18:21:54.205354",
+  "from": "revers@q3mcco35auwcstmt.onion",
+  "to": "meatball@q3mcco35auwcstmt.onion",
+  "body": "15"
+}
+{
+  "ts": "2021-06-11T18:21:55.681023",
+  "from": "meatball@q3mcco35auwcstmt.onion",
+  "to": "revers@q3mcco35auwcstmt.onion",
+  "body": "Yes"
+}
+{
+  "ts": "2021-06-11T18:22:07.066732",
+  "from": "revers@q3mcco35auwcstmt.onion",
+  "to": "meatball@q3mcco35auwcstmt.onion",
+  "body": "each in a different way"
+}
+{
+  "ts": "2021-06-11T18:22:41.633539",
+  "from": "meatball@q3mcco35auwcstmt.onion",
+  "to": "revers@q3mcco35auwcstmt.onion",
+  "body": "can you advise?"
+}
+{
+  "ts": "2021-06-11T18:23:00.493297",
+  "from": "revers@q3mcco35auwcstmt.onion",
+  "to": "meatball@q3mcco35auwcstmt.onion",
+  "body": "what exactly ?"
+}
+{
+  "ts": "2021-06-11T18:23:16.531341",
+  "from": "meatball@q3mcco35auwcstmt.onion",
+  "to": "revers@q3mcco35auwcstmt.onion",
+  "body": "ex.robpay.org whose job is it?"
+}
+{
+  "ts": "2021-06-11T18:23:38.869412",
+  "from": "revers@q3mcco35auwcstmt.onion",
+  "to": "meatball@q3mcco35auwcstmt.onion",
+  "body": "Do not know"
+}
+{
+  "ts": "2021-06-11T18:23:46.723699",
+  "from": "revers@q3mcco35auwcstmt.onion",
+  "to": "meatball@q3mcco35auwcstmt.onion",
+  "body": "what are you strange"
+}
+{
+  "ts": "2021-06-11T18:24:09.799168",
+  "from": "meatball@q3mcco35auwcstmt.onion",
+  "to": "revers@q3mcco35auwcstmt.onion",
+  "body": "everyone has their chips"
+}
+{
+  "ts": "2021-06-11T18:24:40.665014",
+  "from": "meatball@q3mcco35auwcstmt.onion",
+  "to": "revers@q3mcco35auwcstmt.onion",
+  "body": "before communication. fox"
+}
+{
+  "ts": "2021-06-11T18:24:42.201083",
+  "from": "defender@q3mcco35auwcstmt.onion",
+  "to": "driver@q3mcco35auwcstmt.onion",
+  "body": "[Error: The message is encrypted and cannot be decrypted.]"
+}
+{
+  "ts": "2021-06-11T18:24:48.277197",
+  "from": "defender@q3mcco35auwcstmt.onion",
+  "to": "driver@q3mcco35auwcstmt.onion",
+  "body": "[Error: The message is encrypted and cannot be decrypted.]"
+}
+{
+  "ts": "2021-06-11T18:24:54.957492",
+  "from": "defender@q3mcco35auwcstmt.onion",
+  "to": "driver@q3mcco35auwcstmt.onion",
+  "body": "[Error: The message is encrypted and cannot be decrypted.]"
+}
+{
+  "ts": "2021-06-11T18:25:44.637548",
+  "from": "driver@q3mcco35auwcstmt.onion",
+  "to": "defender@q3mcco35auwcstmt.onion",
+  "body": "[Error: The message is encrypted and cannot be decrypted.]"
+}
+{
+  "ts": "2021-06-11T18:25:54.382338",
+  "from": "defender@q3mcco35auwcstmt.onion",
+  "to": "driver@q3mcco35auwcstmt.onion",
+  "body": "[Error: The message is encrypted and cannot be decrypted.]"
+}
+{
+  "ts": "2021-06-11T18:26:45.989481",
+  "from": "driver@q3mcco35auwcstmt.onion",
+  "to": "defender@q3mcco35auwcstmt.onion",
+  "body": "[Error: The message is encrypted and cannot be decrypted.]"
+}
+{
+  "ts": "2021-06-11T18:26:50.793958",
+  "from": "driver@q3mcco35auwcstmt.onion",
+  "to": "defender@q3mcco35auwcstmt.onion",
+  "body": "[Error: The message is encrypted and cannot be decrypted.]"
+}
+{
+  "ts": "2021-06-11T18:27:23.790766",
+  "from": "defender@q3mcco35auwcstmt.onion",
+  "to": "driver@q3mcco35auwcstmt.onion",
+  "body": "[Error: The message is encrypted and cannot be decrypted.]"
+}
+{
+  "ts": "2021-06-11T18:27:29.861236",
+  "from": "defender@q3mcco35auwcstmt.onion",
+  "to": "driver@q3mcco35auwcstmt.onion",
+  "body": "[Error: The message is encrypted and cannot be decrypted.]"
+}
+{
+  "ts": "2021-06-11T18:29:16.552823",
+  "from": "revers@q3mcco35auwcstmt.onion",
+  "to": "meatball@q3mcco35auwcstmt.onion",
+  "body": "and what are the chips?"
+}
+{
+  "ts": "2021-06-11T18:30:12.047549",
+  "from": "driver@q3mcco35auwcstmt.onion",
+  "to": "defender@q3mcco35auwcstmt.onion",
+  "body": "[Error: The message is encrypted and cannot be decrypted.]"
+}
+{
+  "ts": "2021-06-11T18:30:25.028590",
+  "from": "driver@q3mcco35auwcstmt.onion",
+  "to": "defender@q3mcco35auwcstmt.onion",
+  "body": "[Error: The message is encrypted and cannot be decrypted.]"
+}
+{
+  "ts": "2021-06-11T18:32:57.090967",
+  "from": "defender@q3mcco35auwcstmt.onion",
+  "to": "driver@q3mcco35auwcstmt.onion",
+  "body": "[Error: The message is encrypted and cannot be decrypted.]"
+}
+{
+  "ts": "2021-06-11T18:33:09.151788",
+  "from": "driver@q3mcco35auwcstmt.onion",
+  "to": "defender@q3mcco35auwcstmt.onion",
+  "body": "[Error: The message is encrypted and cannot be decrypted.]"
+}
+{
+  "ts": "2021-06-11T18:33:13.137092",
+  "from": "defender@q3mcco35auwcstmt.onion",
+  "to": "driver@q3mcco35auwcstmt.onion",
+  "body": "[Error: The message is encrypted and cannot be decrypted.]"
+}
+{
+  "ts": "2021-06-11T18:33:18.751022",
+  "from": "driver@q3mcco35auwcstmt.onion",
+  "to": "defender@q3mcco35auwcstmt.onion",
+  "body": "[Error: The message is encrypted and cannot be decrypted.]"
+}
+{
+  "ts": "2021-06-11T19:15:37.487810",
+  "from": "bentley@q3mcco35auwcstmt.onion",
+  "to": "boby@q3mcco35auwcstmt.onion",
+  "body": "Ready"
+}
+{
+  "ts": "2021-06-11T19:15:37.814251",
+  "from": "bentley@q3mcco35auwcstmt.onion",
+  "to": "boby@q3mcco35auwcstmt.onion",
+  "body": "KDfjkshdgfjkh237fybhjsdgkn3j4ngjk"
+}
+{
+  "ts": "2021-06-11T19:15:56.618800",
+  "from": "bentley@q3mcco35auwcstmt.onion",
+  "to": "boby@q3mcco35auwcstmt.onion",
+  "body": "\n    Download: https://qaz.im/load/FYieQR/esGfAb\n    Delete: https://qaz.im/index.php?a=delete&q=1179791491"
+}
+{
+  "ts": "2021-06-11T19:21:56.569357",
+  "from": "bentley@q3mcco35auwcstmt.onion",
+  "to": "mango@q3mcco35auwcstmt.onion",
+  "body": "Hello, bro. Ready report on crypts for 10.06"
+}
+{
+  "ts": "2021-06-11T19:22:00.652624",
+  "from": "bentley@q3mcco35auwcstmt.onion",
+  "to": "mango@q3mcco35auwcstmt.onion",
+  "body": "Project Leo 4 - Build Machine\n\nBC:\ngroup 8 4 dll build machine\ngroup 13 1 dll colin\ngroup 14 1 dll colin\ngroup 15 1 dll colin\n\nTrick. 5 exe: 5 sam\n      2 dll: 1 sam 1 newille"
+}
+{
+  "ts": "2021-06-11T19:26:49.699790",
+  "from": "driver@q3mcco35auwcstmt.onion",
+  "to": "defender@q3mcco35auwcstmt.onion",
+  "body": "[Error: The message is encrypted and cannot be decrypted.]"
+}
+{
+  "ts": "2021-06-11T19:27:52.120343",
+  "from": "driver@q3mcco35auwcstmt.onion",
+  "to": "defender@q3mcco35auwcstmt.onion",
+  "body": "[Error: The message is encrypted and cannot be decrypted.]"
+}
+{
+  "ts": "2021-06-11T19:29:39.094699",
+  "from": "driver@q3mcco35auwcstmt.onion",
+  "to": "defender@q3mcco35auwcstmt.onion",
+  "body": "[Error: The message is encrypted and cannot be decrypted.]"
+}
+{
+  "ts": "2021-06-11T19:30:27.948205",
+  "from": "defender@q3mcco35auwcstmt.onion",
+  "to": "driver@q3mcco35auwcstmt.onion",
+  "body": "[Error: The message is encrypted and cannot be decrypted.]"
+}
+{
+  "ts": "2021-06-11T19:30:43.626855",
+  "from": "driver@q3mcco35auwcstmt.onion",
+  "to": "defender@q3mcco35auwcstmt.onion",
+  "body": "[Error: The message is encrypted and cannot be decrypted.]"
+}
+{
+  "ts": "2021-06-11T19:33:04.645846",
+  "from": "driver@q3mcco35auwcstmt.onion",
+  "to": "defender@q3mcco35auwcstmt.onion",
+  "body": "[Error: The message is encrypted and cannot be decrypted.]"
+}
+{
+  "ts": "2021-06-11T19:34:33.230084",
+  "from": "defender@q3mcco35auwcstmt.onion",
+  "to": "veron@q3mcco35auwcstmt.onion",
+  "body": "[Error: The message is encrypted and cannot be decrypted.]"
+}
+{
+  "ts": "2021-06-11T19:36:00.220551",
+  "from": "defender@q3mcco35auwcstmt.onion",
+  "to": "driver@q3mcco35auwcstmt.onion",
+  "body": "[Error: The message is encrypted and cannot be decrypted.]"
+}
+{
+  "ts": "2021-06-11T19:36:17.310745",
+  "from": "defender@q3mcco35auwcstmt.onion",
+  "to": "driver@q3mcco35auwcstmt.onion",
+  "body": "[Error: The message is encrypted and cannot be decrypted.]"
+}
+{
+  "ts": "2021-06-11T19:40:10.563165",
+  "from": "defender@q3mcco35auwcstmt.onion",
+  "to": "driver@q3mcco35auwcstmt.onion",
+  "body": "[Error: The message is encrypted and cannot be decrypted.]"
+}
+{
+  "ts": "2021-06-11T19:40:14.837181",
+  "from": "defender@q3mcco35auwcstmt.onion",
+  "to": "driver@q3mcco35auwcstmt.onion",
+  "body": "[Error: The message is encrypted and cannot be decrypted.]"
+}
+{
+  "ts": "2021-06-11T19:40:33.242214",
+  "from": "defender@q3mcco35auwcstmt.onion",
+  "to": "driver@q3mcco35auwcstmt.onion",
+  "body": "[Error: The message is encrypted and cannot be decrypted.]"
+}
+{
+  "ts": "2021-06-11T19:41:11.142457",
+  "from": "revers@q3mcco35auwcstmt.onion",
+  "to": "defender@q3mcco35auwcstmt.onion",
+  "body": "Hey Ya"
+}
+{
+  "ts": "2021-06-11T19:41:19.519617",
+  "from": "veron@q3mcco35auwcstmt.onion",
+  "to": "defender@q3mcco35auwcstmt.onion",
+  "body": "[Error: The message is encrypted and cannot be decrypted.]"
+}
+{
+  "ts": "2021-06-11T19:41:55.994230",
+  "from": "veron@q3mcco35auwcstmt.onion",
+  "to": "defender@q3mcco35auwcstmt.onion",
+  "body": "[Error: The message is encrypted and cannot be decrypted.]"
+}
+{
+  "ts": "2021-06-11T19:43:00.974866",
+  "from": "driver@q3mcco35auwcstmt.onion",
+  "to": "defender@q3mcco35auwcstmt.onion",
+  "body": "[Error: The message is encrypted and cannot be decrypted.]"
+}
+{
+  "ts": "2021-06-11T19:43:05.327204",
+  "from": "driver@q3mcco35auwcstmt.onion",
+  "to": "defender@q3mcco35auwcstmt.onion",
+  "body": "[Error: The message is encrypted and cannot be decrypted.]"
+}
+{
+  "ts": "2021-06-11T19:44:28.921299",
+  "from": "defender@q3mcco35auwcstmt.onion",
+  "to": "veron@q3mcco35auwcstmt.onion",
+  "body": "[Error: The message is encrypted and cannot be decrypted.]"
+}
+{
+  "ts": "2021-06-11T19:44:49.793179",
+  "from": "defender@q3mcco35auwcstmt.onion",
+  "to": "veron@q3mcco35auwcstmt.onion",
+  "body": "[Error: The message is encrypted and cannot be decrypted.]"
+}
+{
+  "ts": "2021-06-11T19:45:07.106202",
+  "from": "defender@q3mcco35auwcstmt.onion",
+  "to": "veron@q3mcco35auwcstmt.onion",
+  "body": "[Error: The message is encrypted and cannot be decrypted.]"
+}
+{
+  "ts": "2021-06-11T19:45:49.574616",
+  "from": "veron@q3mcco35auwcstmt.onion",
+  "to": "defender@q3mcco35auwcstmt.onion",
+  "body": "[Error: The message is encrypted and cannot be decrypted.]"
+}
+{
+  "ts": "2021-06-11T19:45:56.772814",
+  "from": "veron@q3mcco35auwcstmt.onion",
+  "to": "defender@q3mcco35auwcstmt.onion",
+  "body": "[Error: The message is encrypted and cannot be decrypted.]"
+}
+{
+  "ts": "2021-06-11T19:46:05.905518",
+  "from": "defender@q3mcco35auwcstmt.onion",
+  "to": "veron@q3mcco35auwcstmt.onion",
+  "body": "[Error: The message is encrypted and cannot be decrypted.]"
+}
+{
+  "ts": "2021-06-11T19:47:28.028473",
+  "from": "driver@q3mcco35auwcstmt.onion",
+  "to": "defender@q3mcco35auwcstmt.onion",
+  "body": "[Error: The message is encrypted and cannot be decrypted.]"
+}
+{
+  "ts": "2021-06-11T19:48:16.327150",
+  "from": "defender@q3mcco35auwcstmt.onion",
+  "to": "driver@q3mcco35auwcstmt.onion",
+  "body": "[Error: The message is encrypted and cannot be decrypted.]"
+}
+{
+  "ts": "2021-06-11T19:48:47.053757",
+  "from": "driver@q3mcco35auwcstmt.onion",
+  "to": "defender@q3mcco35auwcstmt.onion",
+  "body": "[Error: The message is encrypted and cannot be decrypted.]"
+}
+{
+  "ts": "2021-06-11T19:48:58.694685",
+  "from": "defender@q3mcco35auwcstmt.onion",
+  "to": "driver@q3mcco35auwcstmt.onion",
+  "body": "[Error: The message is encrypted and cannot be decrypted.]"
+}
+{
+  "ts": "2021-06-11T19:49:01.900718",
+  "from": "driver@q3mcco35auwcstmt.onion",
+  "to": "defender@q3mcco35auwcstmt.onion",
+  "body": "[Error: The message is encrypted and cannot be decrypted.]"
+}
+{
+  "ts": "2021-06-11T19:49:08.153408",
+  "from": "defender@q3mcco35auwcstmt.onion",
+  "to": "driver@q3mcco35auwcstmt.onion",
+  "body": "[Error: The message is encrypted and cannot be decrypted.]"
+}
+{
+  "ts": "2021-06-11T20:19:25.066841",
+  "from": "defender@q3mcco35auwcstmt.onion",
+  "to": "driver@q3mcco35auwcstmt.onion",
+  "body": "[Error: The message is encrypted and cannot be decrypted.]"
+}
+{
+  "ts": "2021-06-11T20:20:26.044161",
+  "from": "driver@q3mcco35auwcstmt.onion",
+  "to": "defender@q3mcco35auwcstmt.onion",
+  "body": "[Error: The message is encrypted and cannot be decrypted.]"
+}
+{
+  "ts": "2021-06-11T20:35:49.875016",
+  "from": "hors@q3mcco35auwcstmt.onion",
+  "to": "boby@q3mcco35auwcstmt.onion",
+  "body": "there is a new chat"
+}
+{
+  "ts": "2021-06-11T20:35:53.893296",
+  "from": "hors@q3mcco35auwcstmt.onion",
+  "to": "boby@q3mcco35auwcstmt.onion",
+  "body": "you were added"
+}
+{
+  "ts": "2021-06-11T20:35:55.383398",
+  "from": "hors@q3mcco35auwcstmt.onion",
+  "to": "boby@q3mcco35auwcstmt.onion",
+  "body": "https://www.zoominfo.com/c/the-ndd-company/372426980\nhttps://www.ndd.com.br/\n150 servos - in the lock\nmega\njointofffdsd@protonmail.com\nDFv44gjDFfjj33Rgfg$%%\n500gb info + software sources: e-forms, nddCargo, nddprint, nfse\n \nWe develop solutions for the daily activities of your company. With operations in over 20 countries and experience in Latin America, we employ over 450 professionals dedicated to developing flexible and reliable solutions to meet our customers' needs.\nRevenue: $50-100 Million"
+}
+{
+  "ts": "2021-06-11T20:36:10.012182",
+  "from": "hors@q3mcco35auwcstmt.onion",
+  "to": "boby@q3mcco35auwcstmt.onion",
+  "body": "something is wrong with your online"
+}
+{
+  "ts": "2021-06-11T21:05:05.966128",
+  "from": "professor@q3mcco35auwcstmt.onion",
+  "to": "reshaev@q3mcco35auwcstmt.onion",
+  "body": "JF66odtYUWztuszAYccSHEEqHzMI2SqA40oZArWewXnbeqQEKaPDyROsY7izkM7x\n\nthrow them a decryptor please and instructions on how to use it, given the fact that sometimes there can be a \"double crypt\""
+}
+{
+  "ts": "2021-06-11T21:05:21.276950",
+  "from": "reshaev@q3mcco35auwcstmt.onion",
+  "to": "professor@q3mcco35auwcstmt.onion",
+  "body": "JF66odtYUWztuszAYccSHEEqHzMI2SqA40oZArWewXnbeqQEKaPDyROsY7izkM7x\n\nthrow them a decryptor please and instructions on how to use it, given the fact that sometimes there can be a \"double crypt\""
+}
+{
+  "ts": "2021-06-11T22:02:26.971597",
+  "from": "stern@q3mcco35auwcstmt.onion",
+  "to": "johnyboy77@q3mcco35auwcstmt.onion",
+  "body": "Is there anyone among us who considers himself a guru of blockchain and trends. Who knows where to go in this direction and what to develop ... What ideas does anyone have"
+}
+{
+  "ts": "2021-06-11T22:02:39.870482",
+  "from": "johnyboy77@q3mcco35auwcstmt.onion",
+  "to": "stern@q3mcco35auwcstmt.onion",
+  "body": "ghbdtn"
+}
+{
+  "ts": "2021-06-11T22:02:43.160633",
+  "from": "johnyboy77@q3mcco35auwcstmt.onion",
+  "to": "stern@q3mcco35auwcstmt.onion",
+  "body": "hello blockchain"
+}
+{
+  "ts": "2021-06-11T23:04:47.531874",
+  "from": "hors@q3mcco35auwcstmt.onion",
+  "to": "boby@q3mcco35auwcstmt.onion",
+  "body": "there are 2 more chats fighting to pay"
+}
+{
+  "ts": "2021-06-11T23:04:52.840638",
+  "from": "hors@q3mcco35auwcstmt.onion",
+  "to": "boby@q3mcco35auwcstmt.onion",
+  "body": "gathered*"
+}
+{
+  "ts": "2021-06-11T23:05:10.416283",
+  "from": "hors@q3mcco35auwcstmt.onion",
+  "to": "boby@q3mcco35auwcstmt.onion",
+  "body": "and the first are waiting"
+}
